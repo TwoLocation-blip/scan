@@ -1,0 +1,25 @@
+# Environment files with secrets
+.env
+wallets.txt
+.env.local
+.env.production
+
+# State backups
+state-backup.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,14 @@
+{
+  "name": "lilyswap-pool-server",
+  "version": "1.0.0",
+  "description": "Backend server for processing LILY to ETH swaps",
+  "main": "pool-server.js",
+  "scripts": {
+    "start": "node pool-server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.13.0",
+    "express": "^5.2.1"
+  }
+}

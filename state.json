@@ -1,0 +1,4836 @@
+{
+  "processed": [
+    "0xf57a0b632b71222c1b532611a6fe935202952b80094f83a5920d94895231b704",
+    "0x6c95d8555e68072e63f2501cb133bee2769727991c9e07bf16214f1bf6c7c94a",
+    "0x17c496ffa91f42239a1513573580d710bac9a891f424710473711cce5ceb8ba1",
+    "0x708af3739f7e2ee31649747799868303edfa1bf4eee1768de0ed33aea6ab4c03",
+    "0x5a8323fea74ff43978287bdc34bd7d65fb4681bd954da8098df47f5517252f8b",
+    "0x349a4a6afebbaaf1176638985b6ae59d745ffbe0607ae0145d307d8726d07bfd",
+    "0xf1ab9035ef2237f2035a555bccf8b85f500404ffba7e10b7ff0e75c81a12b7b3",
+    "0x8ecf8d2a48bf74edc8ff7f9e5568cd1501432217328e3ca34ce1a8799edf7089",
+    "0x8cd5daefc55a654bb48317c0232a2fb0abc07967504077ca1528d7d799d62c8a",
+    "0xa10a88455f04d71e0dc8af1b96794193d0b64d889ff38784423b50b568589e54",
+    "0xb88d1441d950887fa1b621f30052608aecddf6f52feba56fbc3ac2607cd3eeaf",
+    "0xcd2edb1e0cccce38067a04bb9168353d897395ef6b0ea5dd1f9eea349d30488f",
+    "0x513cca9e69f60fb6c1083a7635a458d58e1c3716a05a85a07b1282b17ceb4ca2",
+    "0xcd0c8085baec87ce80ddc4d81fdb8cd78cbb9fdc513f167a546402db87e6dcf3",
+    "0xbf74740535c8d9863538c4e2d3f65c252d1a4ea5701744b45f105ea2c76bd090",
+    "0x71ddafc29aa68f7835c89f318661a39e59c4d5a550736207091f17f878eb322d",
+    "0x6fbe13fa49d9ff77dd36671cb07bd56f11a77cb80e9f2459791e2c16e08bf7ec",
+    "0x51fb8a23c38ae8e93bf72c4f4505815882ae88d078e219c5598ff2588a5ff42c",
+    "0x903b31fd5c449520d882ebc0fc3cc9ced0da0d0f08e5a2dc949da9c9495c6ea7",
+    "0x68a1253b57f1cca474142ce27a4291fa4fe81df2f796de585e1891bff9d9663c",
+    "0xe0c87a6a70ffe7cbc416ead625bf0c301816861df916e64351655fe1f8975b56",
+    "0x8440251c3df0facadbec523a0d52624c04c62c13de815ae32621b51a52a6e4f4",
+    "0xade606983593d5b1fc5060f369eac99a2e31e621f388c48ad92af1bbe52c4a2c",
+    "0xde14f7ae31391c2f8a21256a0dfb2adb74dcc7a6a4e46c80b62cc1c6c49f33e2",
+    "0x7031f0fd5de87c4d837f65d9cb32ad9133673b3d5535b4fce5eeba71f5cc19f6",
+    "0xc4a858866f3cbab124e7be9c2d7601d5c9b873d0da669f1db6537cf787062b35",
+    "0x767a59331c1f10db4ea7401741eec5646af2f6ebf48e2b1421e90bad828dd33a",
+    "0xef2b4955518d641f52ff34c48c8da5b55b958eaff7e5481b05913332c4b1ecd9",
+    "0xe292f66e320c7844d4c850121adc04d770d82d75e988c0ad8c3c56047cc8bb3f",
+    "0xf05fdc9be941c24fee0944a3665dc5f60d406e9e36fb94c618dac5230973855a",
+    "0x4fd3e97c26fad7a7620c769dc69c228afb9b9e2cf90f6637fac844b871bab4f1",
+    "0xf9c955598877aa5aaef77acf4a0f8da8ffc23d139406bd682beded732dd75f54",
+    "0x12c96821dc7e66c07e1d1b7260616e80b88b5e3787f9e2e1d98df459d6333651",
+    "0x1c2cf6c76ba629176adce4512c9c7089681fafce94c0d7274b69cbca9e112a88",
+    "0xea3e8b051661a285668a152059e785f7fc45fa38edaedb30aed19ba1a28928ea",
+    "0x9dea0092a0582bc506517abc460c31c52161cc5181895ddad281a51517cb2525",
+    "0x45510da3854057c7a9db866155770eeb111ac6d2bdd3c35664ba32f42db61b39",
+    "0x166684514a088212e8953284f0edabde3955e07804ba7ac980548805a9025e03",
+    "0xba6ca63c67d67d40e7b0c1d5e7531024018babe9edef463ebffc8640efa694ff",
+    "0xf9af3532049d5d241e4729ccaa6254ea5b655daaaeb6665f4f3a39710509735e",
+    "0x33289fc03a34f3a668cefdde5bef44fc4778d6184bf9e2b12727ba49a63f1dc9",
+    "0x3b89f10cd0ba49c11a6e2c65d7af97be0e73d71eedc89de0a4691ddac392ba23",
+    "0x234793542a301a2a8d99515d08bacdeda8bd9ff1bf746a2aff189c09e6173f9f",
+    "0x1c1158b82c1dcde1a793be1c69b3e215e7e1c940f44e143f6ebd5e85a83ddfd0",
+    "0xa41eeab9ca06bc08d14ceaf512488241b3d354ad5217a6445c9501320795d4ef",
+    "0x013c4d4a1c97e3a0dfccadfc5bad46a6fcd6a0e3eadcabbaa55e020c8603505e",
+    "0x324384368dfecf672b196b23e0562a74e54d17b1e0d7c2541368a05ab47601c1",
+    "0x9cf9a56431acee6af0c197d70391c868b339f10aa540b3e6cb86aa9ab3a7b5ae",
+    "0x45203aae2af33027f56dfbf19b0404aed777cfe9479e2b2021c02e0fb66f77a1",
+    "0x0547a74673e0af5b8d29b9e3f71282f48956830c73aae22d83267a1229d94791",
+    "0x9bf050a6d5869ca2dc4a40a04ae2429d6f08fa14b1ef4e9ed3e9741ce5de3258",
+    "0x8cdacf02793224d6032c722380c3b8dfeb9f48692b59c03ab55d387e9a06c155",
+    "0x55623531c6742f2ebb0f52b16a4c1068745e2c61e276d1eb883203e966ea95bb",
+    "0x43ea55f0b4b645f998fdce2ed03d9868c051e9dada7efc02e058276029ffe181",
+    "0x93450502c392167453071bd0aa4520065f5a8c8b98dfbfd48613316d8e390b32",
+    "0x67c6afc4f51b3bbea1b029c168544cfc740371004c30898a9d700493bbfadf37",
+    "0x525849f2735a49d985bcbbf47308c2906197cbb35e376fd16971bf6d3602b921",
+    "0x9c156017beef03360903b4ef5524cec8f2bab70969a71510dcf998d320827c80",
+    "0x9db727fa531ab494ac80716a0925061c81d4a0263a0fa64553bc41c471f3ac24",
+    "0x9842cba364ee34fa8fd284b3be3a866cb58a72d00586419a6aafd0e7f0db0fae",
+    "0xfccec6a64b1f8e3e1a38be348638c075b6a32e5b01a23c6e0b18298f32095ceb",
+    "0x20d121f4169cc583734bf6dec98ae9890990ecc6661a921def2e63fec26a3030",
+    "0xffeea5b72c14822283d40df6318d3c511a02877616b515599196166a9ad42806",
+    "0xedcc1edbb266b21a4ab14aa507a72102c325df79f794cf641d250d57a7d65987",
+    "0xa7f686ad9a4ffa654c6bcc0d1229979483ff1778a1d822a5208de2b7ddfdaeae",
+    "0xc5d464c70348be0bc4286074f450b3520c57771d610bb3892be7c33c260ea1c0",
+    "0x23b435c8fcfb98e4779fc8291f3a4a40af3106a81d0d8ab56c977eee4163a556",
+    "0xc47172a2056ff6dcd095a046340d2c7fba338e8c27e29219916f4d03a5c6315d",
+    "0x7d7052fb96472428aa00e7a9442cdca4c4afdb7fb73a4417f097bb15ac042235",
+    "0xf2615c50313bf26c19c0dff19e284435a2718e0125b8287f961caab54728d813",
+    "0xe0b3b5724b2c7291f8de3b711a250818235d6f5c9be9a53b220b5c9d9cb298b5",
+    "0xbc0a31f2cdd20a267aa643c7bbf18d8d342bf06a8cd1559391ff33607614c3db",
+    "0xb7ae0993202dd7c1d58a64f78f3f0a3a68ce0981aa60f9bd7c29fae59c442096",
+    "0x79e59270a472a7460cf18646c2f1de1eeb12246a0656af6085a57e65771eea22",
+    "0xaf255a9a434ab8af2b0ab8561af2e7d0b26fbcdc579ad6ecba8979763f5ea98b",
+    "0xde5b472235eb8526435875098d640f9ae38d0987979fd97297d1c93e1dd1d625",
+    "0xebc60f19c42b20086bd913a11e9600e111642c0b315b6ba05e43995257870655",
+    "0xff0d4c6159b285eefef2125ef215e8b33ac3e5a74726cb637998dbac02bc035f",
+    "0x74f7ebd86204fb1d15cca6763dc28237cf734c4d8df2f5923f03a10e9e35f3a3",
+    "0x40aaf1ef5a2eb683ec63effe3ea1f04da33c9424a959beb39f841d230f193e66",
+    "0x5f94301e9d61a1c0ffe834bbf36b7de9dba7e875f0a0fac765449cb88d181fda",
+    "0x6690c78600106c98c3ea4904c77141207977024a6edd368d496d6691cf0fd34b",
+    "0xe1d5f3b42bbe74e2f2803767a5c715345ad8c0ddb4f0507d0f3e140e3c8d7db2",
+    "0x90749840850158250e7e90bcd1bbeacf379173f45af7a4292f35ac266502de9a",
+    "0x7c689afb2a6539337f5d1d072c8418a82be0f86f72014ac2a67f6dd8ea2c5b78",
+    "0xe6322cf73691dd1cdabc4869e24af5a5026730db3ac82cbcc6333ce8c2acb985",
+    "0x9cee7ad4b808382408a0492d7826c1f48c82fc3dd3f93deacafb8d025aef3795",
+    "0xaa260fe66d014932fede0f48ffd3b830a20781df001a375d3bf9cd3e569c3e73",
+    "0xfc04ea329f4312ed551c18c0bee74596487c562cf81746f1b4f1ecb4c5ca0ac5",
+    "0x99063d22f98c64a3b8107a3dbf3362ff86f14bbd620f15bc0cf4e6da66eae2a7",
+    "0xbbc0e99e315d7de8611928263e28e0c96a975e217d1ee4e89b7b4b7f0f373cd8",
+    "0xd070b9af78ba3bc283aa16c1de1a87341b6c6ff0977a3ee2ed51cfdbd401ee98",
+    "0xf3a471500c91919d8629fee92bddb910f3122eec8e4039c40287a105e9d49baf",
+    "0x685090408557611c575ffda8e43b0cdf4b7a71a6a5fbd5812ddf72653c2bfe5b",
+    "0xdc5f2a33030d891a18fb5c005293fca9621f0f64d245dee22674ca4336bdd188",
+    "0xae3ae419755faf1ae79fb11d92a2e309628d32ecb8758fd8cd33d76cccb78cf3",
+    "0x211890e9d5c61a054115dd0f1c97bd69f0b470067bb980066f3e722565e852e6",
+    "0x8a6f97847399bf963f02ae4237447c728ad77f84038edc000dbeac1fd1036a74",
+    "0x865fa38735bb67b2cee6307fc8802ec34fe394ea35e14bf3456cde2b7ab9d6fa",
+    "0x91d7c8ff74fbaad7595bb59d49b3177c1fcb307796bd67cdd35063e1f477b56f",
+    "0x1e23bfe813c9033722c57e9b02663669066f7685ca370d0f236b09eacaca180d",
+    "0x5e41b2d90089c4c986438d23616ad9b030ba82465f3d57ac5554510bf4a1bc1c",
+    "0x6debb7000d9758c434564d603da969d6b35a75fc89323a5dd4f05545f21d92bc",
+    "0xee157c5a35d3ee3a56d7f7a265a819ecbe6261c4ab722d6828143dea0becb65e",
+    "0x44ed197ce08827812ac88a0fed740a1b1d6e8a5abd6d24c654ddc2b1a869de8a",
+    "0x4a1218df3c72f317dad140f4a0af5f6b5f0a6b5a70d8699bf237a9b557ee1345",
+    "0x8d84ff8bbcf3d766345770c4d5a02a4a3c4bfe540b875d3b2c0ce74b147d5a29",
+    "0x393b7f2478701879c01808761cd851ba07ce9448d54cdab5436c7c8a5c86a7c9",
+    "0xa4c0d62ac5f6a39320f90afb7563667202339b7013bd7da4cf1d17fc005c4e24",
+    "0xb6428c2b8e7ce7b5a9760b18a80e3aa4d7ad105b5f1a49ff5d4679f17e7d51ab",
+    "0x5ab705428314ec9ff9f3e2d2cd82bf20f7f6a37f973eeb74cedf7fb43d185d81",
+    "0x24144ba86266dfcf1486f02058715e2e736baba7520fc26f0becfd12ff26c5dc",
+    "0x3e91a1dfe02c4b58e5dba7bd6ac1f01b07f9726503015c4a850fce4c42f959d8",
+    "0x37e895d6507993dddf833908ece48c4d6873c557956264d3f97fe7400a555893",
+    "0xff5b5919166e8c952ccca48407a4c104c37a300c17ac90289c9ea82e540700cd",
+    "0xeec0ccec5a1ec329e28baff635b91c6bafb6aef4519570f7794b16d623b2a1b4",
+    "0xd8fa300977b2deef67edebb1184beb201113931e6af948c0fc1b02a7fc3cd6b7",
+    "0x8fd772f792ec7fc5250fdf49148883a5786f685baff65435cd06c97c312ab347",
+    "0x73d6f9cfae58c2af9790d177c735b0bda509968358fafecfccbfe40cc03d9ca9",
+    "0xaf87e489b46ecf89af39e98747e30727fcc5c1cb450249582df2fe923f22e567",
+    "0x1f72069fec225c45e967e4c89d6a8599e98c390ccb667e139ddead5aa49bd92b",
+    "0x5e70b86a9dd37b77bfb1b52266af765401bb892355fcf8086613acc61f111224",
+    "0xc6211c8406d434fe4248a67d6112425502cf5cf67a07ddcb3847e07ac38796fc",
+    "0x717c271aae727876d6f3f9f0918faa89501895758f79224190b2d9c6107de0de",
+    "0x7c49a8aeeb00a83d50f642b08550633ca4aa5d1fb8c2686fded7434ce288cb47",
+    "0x414ae7404991749aeabe141c10399f3ded70362960eef107b40c2ee775c730d0",
+    "0xc66f1e3b0f61d410c80c4291a8cc7be3f8e00b61420d17291240e62e819c2a88",
+    "0xab4f85985288cf1e2e0adc3419502e6ec34abe206c777775e3812edee89b642f",
+    "0x2691b97592f60e7cc4e97cb1a202413514ec7eb30ee2e83a11989f7627c7f17f",
+    "0xf21e1ce2df41cb72db825c9ffaec2da0940023ad89998c72096b8b267c258aaf",
+    "0x0a5eabb22da5d32aebba56a29d996e341b067235266b2e363cc52e5b1791b993",
+    "0xf8f0742ef0cce8f9b002aff53fd9e61cf947cece46e6a976f9f50c2ce64ece6d",
+    "0xb533ded4cfdcbb460859e3580caf21861f7449bfa5f03482214e91d425f1cb4f",
+    "0x66ad4db15ed0b37de547d393eb7039f65ad6302095aa7cdc0f319a956b9bd237",
+    "0x2e5275d7370155e8c795ae1163459b9eda7a3bb0808c4972b0bd84148955a009",
+    "0x70492ea598dbae5cd4b1e0b2dfdffa5e49cf3a5acf45f8ffdc9fddb2009ec053",
+    "0x1c68ce1425abd3e03025ba30ab9dba28b6dc0dea3f0e1c4de24330b5b70561cb",
+    "0x10bcd0b9123f887112b3b9661ddd31bec65af27c2b804b4bd5d61a1a2a56fa8d",
+    "0x58d15795e42424465e00b111f75e0019e1fbb56704b2caf985501d24f948e9cc",
+    "0x3852a9c5f0bd2f5b28efd3d5622b27e08a9226f61581eba16a856cdd70688ab3",
+    "0x376edd59a0183ef3ab6c7a3e7104dce9b67035bf14f56cc13a1f4d5829adbabe",
+    "0x39ef30765593e170b66704c5f7e7d5e86a76cb13681184e9f661ad9a299ea906",
+    "0x02089ca856366fee75dd904fd6926a938276d68c917765d8672c322df4515874",
+    "0x95f811809c9ba3f257ede3d8df60548f570cb49e54aa01d53f9bfcfc48fa72d3",
+    "0xff9d02164519a3352ea8d45e8c0f632d0b65ee1fff3b787ce52f052c6084b551",
+    "0xb4e5cf060e75dca38dce7c572c53daa7c86442108cd73b1d17f8a07228de0000",
+    "0xd23cee387347c8555fda5e5ef760bdb77a7a732f2c07106f019e19be49804e34",
+    "0xc295874be202a673d621c7d13a7437228e95d6baca449b9c212bb8dbc6d8cdd1",
+    "0xd978786d3f7a03cbd0412baf3fb34c3d35858bdd6af93ff30b590cdf4c03d762",
+    "0x340d1c86e6b5096da329bbc2343d3d168cddab0998f3f9008ce09379c5d19c13",
+    "0x6b43b8fd19151d6e9353f7fde2a469ff5e66777a2df028283265d33781d25754",
+    "0x4367a1b4a90f63ee1342a74371a868ba85ccdbf451fc06f5dbc0a12274bdfc21",
+    "0xd5b3318371f619bc52737dd5c9386245aa3e7613b7ea6c5ab5b6a026705b0438",
+    "0x851d94967122f35e9d012cb6872e7ef2bc8cfd7073770ab92774928b519e0f9d",
+    "0x1b0862aa52606f1d3bc1aea4cf67a003644f00bc9613b3a914c2a8344a6d80a3",
+    "0x75ac12a71eb5c4bfbe2b1df3bc9d840da84ec4a5b9b775ced54b1f4aedd8936b",
+    "0xcee1aac3468758bcb1d204ea89b09edd3b680ffc7f8cb321bca13ebc32262ee4",
+    "0xecb8e09c4213cd46ce4c8bd901d7ef505a4d283168b38f50baacfee2bd62b98f",
+    "0xe70fababfb6551fe0257148a8bc9f3d4a2811511c514d14ca88eec8c95fa5304",
+    "0x9c959266b6f37d817aefdea944324e28c969d47aec28d579a834af75025317c2",
+    "0x37f6ff483a1e9b62e7050efa1284076ab81b5c7d1319867bcc9ce287ff732155",
+    "0x51ebf863ceb65db8a4d8c00036dfe71372e65d6a44686daa6fecd9995475afa6",
+    "0x03cd742e84e469a42b1c7984d6f9acc71878d7339313215590d66e03af6277ea",
+    "0xe2deb21ac78451d6364cb4cc56c4ee4c2093eb3262c004620403d3df4194d325",
+    "0x70cc3601e4c18d26499d9cc01f6a6c230b4ff5f1e053e88a81a581163316fb93",
+    "0xa8d3a2c15c4e060eefa488bb45e6f492a42a6a2802633a54551d0615895c57eb",
+    "0xd8fe020bce1c7d5cb79dbd826d67d5a08820afee9c501e7ae8282c8318f8ca65",
+    "0xd7c067dd9038ca0fbaec34ce827facc422c8f987995cc3d2f3da1088a005fcc1",
+    "0x5ece11e369f5ba3305710af065183ba16d4aea738f1f44bf0a3366aa9dcee0f1",
+    "0x22d7c7f8e430608f51f0e44c4fd5916d164db8c4365c00112b76a0cc4d52fd3a",
+    "0xcff5d24210e5c363c9acaab92af861f947732d6b48f644b32110b3e34d0aeb28",
+    "0x23c396c8f91a79630e67a8f105c3bdc295a6fb0beb915a665425ec0d52122128",
+    "0xfc0e2b8a2a605d38d41c0059984d07ea07eb7bc4b5229b03039a596095533693",
+    "0xff71c4c0f886ed13e031214327863e0e40dc91b94669e8c2820ee78e8e711afb",
+    "0x17023eaa92998253dc6d49d69114aa50aa470fba9c19bf1427750b819fb25081",
+    "0x20fdef25861a1d5f95cd9d9cc4f6f541135b7937b797e1350b211bff3790b8c9",
+    "0xa09db7171075e350a1f0250c0dc7f4d6f4a93233f20ec2559b94b66f60707faf",
+    "0xfafcf89962ad87697ce5f0e76d8374aca7d828cc946f5757cc3194761f436510",
+    "0x490ad8da58845e8416329ac543f6d61500981ee6157606a6ad91bf5ba1689089",
+    "0x754518196b55b9ecca303462a0980fb37bd6331e0b0da8f3390025a8e5a0e160",
+    "0xe7fa6b3794339a17f78d104ac950f15d2514c847d241bb5e1813077116c58865",
+    "0xfefbe3b23c3185f61ca13a11351f04b4ff6a9d92052c765b51cd50588a1f998c",
+    "0x1665bbd1c428306410f68129abb744455f7dcb5aa9363cbe64a89a8f5d062807",
+    "0x03ccf45190cf9a3b86b124121bef762025ee46891d9fb38ba134898e45e5f34e",
+    "0x7d8aa781482eca1689d15221c3ee93ce95d2e8cd85c8106289e31bff500037a6",
+    "0x7f51d3f844de7b0262456a477870c3a11e7117ec93636e975a1be4418af8ff58",
+    "0xf6e6919bde025255c873a8e130e4120babeaeb635a6908b6761f084e565c8674",
+    "0x813d03b4e0be7aa51c3d34fea070f5c5285538ce7d864ac6703d2a5bb800fb34",
+    "0x3b611950c53bfa53663f4d830db382fe2b91ec7c9af0f5d94ab89ca28c4a7f93",
+    "0xefa9243266d4fd511997e513945574d388479124eac4cbfd7d957b9594c8803c",
+    "0xec336dfb8ed87c33d77c34cdb23d7719250b7ef906f605f668572b2bb78cb38e",
+    "0x302792bc121e74569f4f801cb353de2cd805411bdf9b3b323d59895498ff5c79",
+    "0x0bf23d04de025a6ab40dd38f37b1c74dcc37c2c82053a8d4665c5efd96630bf0",
+    "0xcaee76e7375ef5b3bb2ebc98b4d3fcdd93099ef26d87406f5c375a148a7c2a24",
+    "0x07d3830b5be00f338276b85f9be412be9b949bc8beb97f2447ec78d3b2543ff5",
+    "0x7b64fb65e8f6dee9893d94e160fc68ea538106496cfc1f6a9d2cc7ebe448a534",
+    "0x737a177321abdd9766dc16b859ce26bcf61e9877e548ed4cc5141574fb1ae3f7",
+    "0xb92aa92d835dfaf5e6c116a59563ea128bd9000217c91ec10995856778595d83",
+    "0xa34f6bc81c58653cc897b75e6d8b26912e2d34c82582c6114eca6eca42a613d3",
+    "0x20faa0e9f5916312e31582c6619798820d0e621ee1da03c17c4a1a11a2995ecf",
+    "0xec26282d782ad29580581ebc5fb68121095a6afc965f79af5dce9f7fb3597e09",
+    "0x399398d11aff3b80173717f81cef1556a438d33dd7e1d4e0280ed11e025f71ba",
+    "0xe5a07d43247542bae6c658ac23358de8dfb75dec5e560430d7c61bccce81f2dd",
+    "0xfc8d9c6b9e715a37a540410f607ec7a87302e392bd158be7a8ed53d8f70d082d",
+    "0xa8339b15ffc325c202cb46394a954c9a48e5a3bc271ffcf01735c615159ece46",
+    "0x7635e1befe53e0164abbd4311b4afc51a9330351a87c1fb64107f8677a848751",
+    "0xacc83e239bd668692ce2e853fe17775676b63938f5efbdf92412d70218e38458",
+    "0xd727ec43db050e7bd196f2a49474ec82987afd01ff9f60fffe8ded8465a93421",
+    "0x5b4b4dc1f12c8d170ee1affc5920dc03244d88183b11f5f1f1ee3ae10a19e02e",
+    "0x92e3b564cadda0162cdad2cb21679b57c4e8dd99f16f0e4bdf98321f4cfbd17d",
+    "0xa270753c2b4d3349fa3e2e7ddeed35d757e3312979324e91308c756f23e50064",
+    "0xb33826d9f43344adbb79286f828e0a6390bb9361222b1ec99b603b22fcf91048",
+    "0xb57e638b7c752fe1f3d1ed0040c9f9f73a1f375d60808fbc23b3faadcf682c55",
+    "0xa0e5c506978cea550a622a46843a40d60c5d8d98d920e78d1d08decbcc1fbe55",
+    "0x7f813ca672e0d8e72919e6d99307d24fce3c573f22230c15adae6abbb729ee4a",
+    "0xf808c50dc019efe02a496a0291dc1ac08fa65eebc73039e96c722fde00f5231c",
+    "0xe60fb6205bb147ccbf4afb266670f836d1febe438d06cfb5d96e62e1675d6181",
+    "0x54589aced4f67e4844a27a64284acc757731e923f9dfce436268cceead806aea",
+    "0x9ae62f3395ad26fd294d3d4e4990128980da70ffc360f455c70c71e90b4e849c",
+    "0x09d4f397b4c604a8744293736a9616accc592393f86069262881361318f5d17b",
+    "0x1614c13ff88f6f81510047fcf57979eca485b5329cb5a3e7bc22dfc1a9ed1a6f",
+    "0x81b68b14b9406602417466877b4be48d496be843d7b61b77f71803281630d625",
+    "0xdb19a988cfe358f414edb2551fdfb4a1eb889a4731705f0e1606241eccd79cbe",
+    "0x3e75bf90f6288bf2528a4e008a8a9eb22dc9198d94f7ccce097603c96b2a179f",
+    "0x07bf8ba5e30e0da3af3571ea1b365fe661f59476029e6840d7e205729e413e57",
+    "0x89de96e3268b8b23674e1d44e833512990816a46971e0bed5a25a74ce4fbe09c",
+    "0x985fc70c30728218c0b61d38f038d7e5eb397a8f6bc99eef9584776d52e42c6f",
+    "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+    "0x24ec9db213130eb2192325ffb50633895f7a8a686f5d619604a660567691a256",
+    "0xa8a22644be7c11aab93c8364e423821b15dcd67f6ae24071c8e3809b9d85eefc",
+    "0xcaf1df52723a56208500094f30a5c57ff7c5f11b761f39e5bf9ccb1fc8237ba8",
+    "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+    "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+    "0x6722a3bc38fb3e6eebe13edc4def57cf4a035a2adc02b40728833034a1dc9553",
+    "0x4ef2a166f09704cb22add73e30bb541940f0c99d17b4d30c9703c152ecc1ebe7",
+    "0xd3584952b55d93d672b5b2b960b01a5eb450546590b86ff8d58255837158ac8e",
+    "0xc79dbbd920b2193cc6055c15dfe623c798445dd61e1217051321fe9090b74cc3",
+    "0x058d0dac8f8ede274c2ef8bade5f2f4d8ca370e385a9f6706ba07e8d4d019489",
+    "0x61801908fa98e90f6f0280b6e298f91e8591666c34c6df4fef49dab1555cddd9",
+    "0xe239b8353c263abc1c1178f8fb65e9dd2f5cdb9b10877b893588bdbb53293123"
+  ],
+  "swaps": [
+    {
+      "hash": "0x6722a3bc38fb3e6eebe13edc4def57cf4a035a2adc02b40728833034a1dc9553",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 1.19615,
+      "usdc": 1.128,
+      "usdcRequested": 1.2,
+      "gasFee": 0,
+      "type": "LILY_TO_USDC",
+      "time": "2026-01-29T22:42:08.566Z",
+      "status": "sent",
+      "returnTx": "0x4ef2a166f09704cb22add73e30bb541940f0c99d17b4d30c9703c152ecc1ebe7"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "gasFee": 0.0003,
+      "type": "SWAP",
+      "time": "2026-01-29T22:37:33.868Z",
+      "status": "confirmed",
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 2.3923,
+      "eth": 0.000851,
+      "type": "SWAP",
+      "gasFee": 0.0003,
+      "returnTx": "0x472eebc37f1638ab005a518cca1a823c93eb6642fc97c8f455e7320106cf69f5",
+      "status": "confirmed",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0xcaf1df52723a56208500094f30a5c57ff7c5f11b761f39e5bf9ccb1fc8237ba8",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 3.1866,
+      "usdc": 2.9985999999999997,
+      "usdcRequested": 3.19,
+      "gasFee": 0,
+      "type": "LILY_TO_USDC",
+      "time": "2026-01-29T22:33:58.215Z",
+      "status": "error"
+    },
+    {
+      "hash": "0xa8a22644be7c11aab93c8364e423821b15dcd67f6ae24071c8e3809b9d85eefc",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 10.7794,
+      "usdc": 10.133199999999999,
+      "usdcRequested": 10.78,
+      "gasFee": 0,
+      "type": "LILY_TO_USDC",
+      "time": "2026-01-29T22:30:50.285Z",
+      "status": "error"
+    },
+    {
+      "hash": "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 1.180682,
+      "ltc": 0.017881,
+      "type": "LILYLTC_TO_LILY",
+      "time": "2026-01-29T22:28:47.000Z",
+      "status": "confirmed"
+    },
+    {
+      "hash": "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 1.180682,
+      "ltc": 0.017881,
+      "type": "LILYLTC_TO_LILY",
+      "time": "2026-01-29T22:28:47.000Z",
+      "status": "confirmed"
+    },
+    {
+      "hash": "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lily": 1.180682,
+      "ltc": 0.017881,
+      "type": "LILYLTC_TO_LILY",
+      "time": "2026-01-29T22:28:47.000Z",
+      "status": "confirmed"
+    }
+  ],
+  "lilyHolders": [
+    [
+      "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      348.28963263
+    ],
+    [
+      "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      100
+    ]
+  ],
+  "lilyBuys": [
+    {
+      "hash": "0x61801908fa98e90f6f0280b6e298f91e8591666c34c6df4fef49dab1555cddd9",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.001795,
+      "lilyAmount": 151.00599,
+      "type": "LILYBTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-30T23:54:23.000Z"
+    },
+    {
+      "hash": "0x058d0dac8f8ede274c2ef8bade5f2f4d8ca370e385a9f6706ba07e8d4d019489",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.00059825,
+      "ltcAmount": 0.77077,
+      "type": "LILYBTC_TO_LILYLTC",
+      "action": "buy",
+      "time": "2026-01-30T23:34:59.000Z"
+    },
+    {
+      "hash": "0xc79dbbd920b2193cc6055c15dfe623c798445dd61e1217051321fe9090b74cc3",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "usdtAmount": 197.22,
+      "btcAmount": 0.002393,
+      "type": "LILYUSDT_TO_LILYBTC",
+      "action": "buy",
+      "time": "2026-01-30T18:40:11.000Z"
+    },
+    {
+      "hash": "0x24ec9db213130eb2192325ffb50633895f7a8a686f5d619604a660567691a256",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "usdtAmount": 1.18,
+      "lilyAmount": 1.177982,
+      "type": "LILYUSDT_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T22:29:35.000Z"
+    },
+    {
+      "hash": "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ltcAmount": 0.017881,
+      "lilyAmount": 1.180682,
+      "type": "LILYLTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T22:28:47.000Z"
+    },
+    {
+      "hash": "0x985fc70c30728218c0b61d38f038d7e5eb397a8f6bc99eef9584776d52e42c6f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.000028,
+      "lilyAmount": 2.360486,
+      "type": "LILYBTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T22:27:59.000Z"
+    },
+    {
+      "hash": "0x89de96e3268b8b23674e1d44e833512990816a46971e0bed5a25a74ce4fbe09c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "usdtAmount": 1.18,
+      "ltcAmount": 0.017881,
+      "type": "LILYUSDT_TO_LILYLTC",
+      "action": "buy",
+      "time": "2026-01-29T21:44:11.000Z"
+    },
+    {
+      "hash": "0x07bf8ba5e30e0da3af3571ea1b365fe661f59476029e6840d7e205729e413e57",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.000028,
+      "usdtAmount": 2.36,
+      "type": "LILYBTC_TO_LILYUSDT",
+      "action": "buy",
+      "time": "2026-01-29T21:42:35.000Z"
+    },
+    {
+      "hash": "0xdb19a988cfe358f414edb2551fdfb4a1eb889a4731705f0e1606241eccd79cbe",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.000056,
+      "lilyAmount": 4.704879,
+      "type": "LILYBTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T20:22:59.000Z"
+    },
+    {
+      "hash": "0x09d4f397b4c604a8744293736a9616accc592393f86069262881361318f5d17b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "btcAmount": 0.0000379927,
+      "lilyAmount": 3.186562,
+      "type": "LILYBTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T20:09:23.000Z"
+    },
+    {
+      "hash": "0xf808c50dc019efe02a496a0291dc1ac08fa65eebc73039e96c722fde00f5231c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.001332,
+      "lilyAmount": 3.748774,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-29T16:51:35.000Z"
+    },
+    {
+      "hash": "0x7f813ca672e0d8e72919e6d99307d24fce3c573f22230c15adae6abbb729ee4a",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ltcAmount": 0.056879,
+      "ethAmount": 0.001332,
+      "type": "LILYLTC_TO_LILYETH",
+      "action": "buy",
+      "time": "2026-01-29T16:50:23.000Z"
+    },
+    {
+      "hash": "0x92e3b564cadda0162cdad2cb21679b57c4e8dd99f16f0e4bdf98321f4cfbd17d",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00128761,
+      "lilyAmount": 3.884024,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T23:19:47.000Z"
+    },
+    {
+      "hash": "0xd727ec43db050e7bd196f2a49474ec82987afd01ff9f60fffe8ded8465a93421",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ltcAmount": 0.01604,
+      "lilyAmount": 1.115422,
+      "type": "LILYLTC_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T23:15:35.000Z"
+    },
+    {
+      "hash": "0xacc83e239bd668692ce2e853fe17775676b63938f5efbdf92412d70218e38458",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.002318,
+      "lilyAmount": 6.986507,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T23:14:59.000Z"
+    },
+    {
+      "hash": "0x7635e1befe53e0164abbd4311b4afc51a9330351a87c1fb64107f8677a848751",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ltcAmount": 0.04812,
+      "ethAmount": 0.001111,
+      "type": "LILYLTC_TO_LILYETH",
+      "action": "buy",
+      "time": "2026-01-28T23:12:23.000Z"
+    },
+    {
+      "hash": "0xa8339b15ffc325c202cb46394a954c9a48e5a3bc271ffcf01735c615159ece46",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.001207,
+      "ltcAmount": 0.052292,
+      "type": "LILYETH_TO_LILYLTC",
+      "action": "buy",
+      "time": "2026-01-28T23:05:11.000Z"
+    },
+    {
+      "hash": "0x399398d11aff3b80173717f81cef1556a438d33dd7e1d4e0280ed11e025f71ba",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00043875,
+      "lilyAmount": 1.321155,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T22:31:59.000Z"
+    },
+    {
+      "hash": "0x20faa0e9f5916312e31582c6619798820d0e621ee1da03c17c4a1a11a2995ecf",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.000145,
+      "lilyAmount": 0.437585,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T21:55:23.000Z"
+    },
+    {
+      "hash": "0xcaee76e7375ef5b3bb2ebc98b4d3fcdd93099ef26d87406f5c375a148a7c2a24",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0016722,
+      "lilyAmount": 5.049047,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T00:19:35.000Z"
+    },
+    {
+      "hash": "0x3b611950c53bfa53663f4d830db382fe2b91ec7c9af0f5d94ab89ca28c4a7f93",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00033094,
+      "lilyAmount": 0.999995,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-28T00:02:35.000Z"
+    },
+    {
+      "hash": "0x20fdef25861a1d5f95cd9d9cc4f6f541135b7937b797e1350b211bff3790b8c9",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00174171,
+      "lilyAmount": 5.111262,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-27T18:12:59.000Z"
+    },
+    {
+      "hash": "0xf1ab9035ef2237f2035a555bccf8b85f500404ffba7e10b7ff0e75c81a12b7b3",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0004,
+      "lilyAmount": 1.173761,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-27T01:44:35.000Z"
+    },
+    {
+      "hash": "0x8cd5daefc55a654bb48317c0232a2fb0abc07967504077ca1528d7d799d62c8a",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00432656,
+      "lilyAmount": 12.5891,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T21:37:11.000Z"
+    },
+    {
+      "hash": "0xb88d1441d950887fa1b621f30052608aecddf6f52feba56fbc3ac2607cd3eeaf",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00177049,
+      "lilyAmount": 5.148886,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T21:30:47.000Z"
+    },
+    {
+      "hash": "0xcd0c8085baec87ce80ddc4d81fdb8cd78cbb9fdc513f167a546402db87e6dcf3",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00810288,
+      "lilyAmount": 23.485063,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T20:57:23.000Z"
+    },
+    {
+      "hash": "0x71ddafc29aa68f7835c89f318661a39e59c4d5a550736207091f17f878eb322d",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00278207,
+      "lilyAmount": 8.09798,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T20:48:59.000Z"
+    },
+    {
+      "hash": "0x903b31fd5c449520d882ebc0fc3cc9ced0da0d0f08e5a2dc949da9c9495c6ea7",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00203387,
+      "lilyAmount": 5.938951,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T18:54:23.000Z"
+    },
+    {
+      "hash": "0xe0c87a6a70ffe7cbc416ead625bf0c301816861df916e64351655fe1f8975b56",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00174639,
+      "lilyAmount": 5.086763,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T18:48:23.000Z"
+    },
+    {
+      "hash": "0xade606983593d5b1fc5060f369eac99a2e31e621f388c48ad92af1bbe52c4a2c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00233166,
+      "lilyAmount": 6.794061,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T18:44:59.000Z"
+    },
+    {
+      "hash": "0x7031f0fd5de87c4d837f65d9cb32ad9133673b3d5535b4fce5eeba71f5cc19f6",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00230172,
+      "lilyAmount": 6.70628,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-26T18:16:47.000Z"
+    },
+    {
+      "hash": "0x767a59331c1f10db4ea7401741eec5646af2f6ebf48e2b1421e90bad828dd33a",
+      "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "ethAmount": 0.00101447,
+      "lilyAmount": 3.002872,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-24T18:18:59.000Z"
+    },
+    {
+      "hash": "0xe292f66e320c7844d4c850121adc04d770d82d75e988c0ad8c3c56047cc8bb3f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00197499,
+      "lilyAmount": 5.843778,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-24T17:53:59.000Z"
+    },
+    {
+      "hash": "0x12c96821dc7e66c07e1d1b7260616e80b88b5e3787f9e2e1d98df459d6333651",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00126638,
+      "lilyAmount": 3.747782,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-24T17:30:23.000Z"
+    },
+    {
+      "hash": "0xea3e8b051661a285668a152059e785f7fc45fa38edaedb30aed19ba1a28928ea",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00155009,
+      "lilyAmount": 4.581004,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T19:37:35.000Z"
+    },
+    {
+      "hash": "0x45510da3854057c7a9db866155770eeb111ac6d2bdd3c35664ba32f42db61b39",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0015311,
+      "lilyAmount": 4.543455,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T19:24:47.000Z"
+    },
+    {
+      "hash": "0xf9af3532049d5d241e4729ccaa6254ea5b655daaaeb6665f4f3a39710509735e",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00092483,
+      "lilyAmount": 2.767254,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T18:12:47.000Z"
+    },
+    {
+      "hash": "0x234793542a301a2a8d99515d08bacdeda8bd9ff1bf746a2aff189c09e6173f9f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00124614,
+      "lilyAmount": 3.727248,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T18:08:35.000Z"
+    },
+    {
+      "hash": "0xa41eeab9ca06bc08d14ceaf512488241b3d354ad5217a6445c9501320795d4ef",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00151917,
+      "lilyAmount": 4.536462,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T18:06:23.000Z"
+    },
+    {
+      "hash": "0x9cf9a56431acee6af0c197d70391c868b339f10aa540b3e6cb86aa9ab3a7b5ae",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00173495,
+      "lilyAmount": 5.192428,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T17:53:47.000Z"
+    },
+    {
+      "hash": "0x45203aae2af33027f56dfbf19b0404aed777cfe9479e2b2021c02e0fb66f77a1",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00104522,
+      "lilyAmount": 3.15,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T17:39:47.000Z"
+    },
+    {
+      "hash": "0x8cdacf02793224d6032c722380c3b8dfeb9f48692b59c03ab55d387e9a06c155",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00117495,
+      "lilyAmount": 3.483198,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T17:14:11.000Z"
+    },
+    {
+      "hash": "0x43ea55f0b4b645f998fdce2ed03d9868c051e9dada7efc02e058276029ffe181",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00088795,
+      "lilyAmount": 2.628696,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T17:08:11.000Z"
+    },
+    {
+      "hash": "0x525849f2735a49d985bcbbf47308c2906197cbb35e376fd16971bf6d3602b921",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00092558,
+      "lilyAmount": 2.741994,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T02:07:59.000Z"
+    },
+    {
+      "hash": "0x9c156017beef03360903b4ef5524cec8f2bab70969a71510dcf998d320827c80",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0035836,
+      "lilyAmount": 0.003584,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T01:47:23.000Z"
+    },
+    {
+      "hash": "0xfccec6a64b1f8e3e1a38be348638c075b6a32e5b01a23c6e0b18298f32095ceb",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00037276,
+      "lilyAmount": 1.102212,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T01:32:23.000Z"
+    },
+    {
+      "hash": "0x20d121f4169cc583734bf6dec98ae9890990ecc6661a921def2e63fec26a3030",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00023672,
+      "lilyAmount": 0.699508,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T01:24:59.000Z"
+    },
+    {
+      "hash": "0xffeea5b72c14822283d40df6318d3c511a02877616b515599196166a9ad42806",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00031563,
+      "lilyAmount": 1.864758,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T01:17:59.000Z"
+    },
+    {
+      "hash": "0xedcc1edbb266b21a4ab14aa507a72102c325df79f794cf641d250d57a7d65987",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00063126,
+      "lilyAmount": 1.86449,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T01:16:59.000Z"
+    },
+    {
+      "hash": "0xc5d464c70348be0bc4286074f450b3520c57771d610bb3892be7c33c260ea1c0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00133862,
+      "lilyAmount": 3.946691,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T00:40:11.000Z"
+    },
+    {
+      "hash": "0xc47172a2056ff6dcd095a046340d2c7fba338e8c27e29219916f4d03a5c6315d",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00188813,
+      "lilyAmount": 5.568711,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-23T00:03:47.000Z"
+    },
+    {
+      "hash": "0xbc0a31f2cdd20a267aa643c7bbf18d8d342bf06a8cd1559391ff33607614c3db",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00025608,
+      "lilyAmount": 0.755859,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T23:36:11.000Z"
+    },
+    {
+      "hash": "0xb7ae0993202dd7c1d58a64f78f3f0a3a68ce0981aa60f9bd7c29fae59c442096",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0009601,
+      "lilyAmount": 2.835074,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T23:35:47.000Z"
+    },
+    {
+      "hash": "0x79e59270a472a7460cf18646c2f1de1eeb12246a0656af6085a57e65771eea22",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00034144,
+      "lilyAmount": 1.00686,
+      "type": "LILYETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T23:28:23.000Z"
+    },
+    {
+      "hash": "0xaf255a9a434ab8af2b0ab8561af2e7d0b26fbcdc579ad6ecba8979763f5ea98b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00068289,
+      "lilyAmount": 2.012307,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T23:22:11.000Z"
+    },
+    {
+      "hash": "0xff0d4c6159b285eefef2125ef215e8b33ac3e5a74726cb637998dbac02bc035f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00136577,
+      "lilyAmount": 4.02125,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T23:05:11.000Z"
+    },
+    {
+      "hash": "0xe1d5f3b42bbe74e2f2803767a5c715345ad8c0ddb4f0507d0f3e140e3c8d7db2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00186077,
+      "lilyAmount": 6.326618,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T21:24:11.000Z"
+    },
+    {
+      "hash": "0x7c689afb2a6539337f5d1d072c8418a82be0f86f72014ac2a67f6dd8ea2c5b78",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.00192842,
+      "lilyAmount": 6.556628,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-22T21:11:59.000Z"
+    },
+    {
+      "hash": "0x99063d22f98c64a3b8107a3dbf3362ff86f14bbd620f15bc0cf4e6da66eae2a7",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0003,
+      "lilyAmount": 0.89,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-21T23:55:11.000Z"
+    },
+    {
+      "hash": "0xbbc0e99e315d7de8611928263e28e0c96a975e217d1ee4e89b7b4b7f0f373cd8",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "ethAmount": 0.0003,
+      "lilyAmount": 1.02,
+      "type": "ETH_TO_LILY",
+      "action": "buy",
+      "time": "2026-01-21T23:11:59.000Z"
+    }
+  ],
+  "lilySells": [
+    {
+      "hash": "0xe239b8353c263abc1c1178f8fb65e9dd2f5cdb9b10877b893588bdbb53293123",
+      "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "lilyAmount": 50,
+      "btcAmount": 0.000636,
+      "type": "LILY_TO_LILYBTC",
+      "action": "sell",
+      "time": "2026-02-01T13:47:11.000Z"
+    },
+    {
+      "hash": "0xd3584952b55d93d672b5b2b960b01a5eb450546590b86ff8d58255837158ac8e",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 262.55115,
+      "usdtAmount": 262.96,
+      "type": "LILY_TO_LILYUSDT",
+      "action": "sell",
+      "time": "2026-01-30T18:39:23.000Z"
+    },
+    {
+      "hash": "0x6722a3bc38fb3e6eebe13edc4def57cf4a035a2adc02b40728833034a1dc9553",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1.19615,
+      "usdcAmount": 1.2,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-29T22:41:59.000Z"
+    },
+    {
+      "hash": "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.3923,
+      "ethAmount": 0.000851,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-29T22:37:23.000Z"
+    },
+    {
+      "hash": "0xcaf1df52723a56208500094f30a5c57ff7c5f11b761f39e5bf9ccb1fc8237ba8",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.1866,
+      "usdcAmount": 3.19,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-29T22:33:47.000Z"
+    },
+    {
+      "hash": "0xa8a22644be7c11aab93c8364e423821b15dcd67f6ae24071c8e3809b9d85eefc",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 10.7794,
+      "usdcAmount": 10.78,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-29T22:30:35.000Z"
+    },
+    {
+      "hash": "0x3e75bf90f6288bf2528a4e008a8a9eb22dc9198d94f7ccce097603c96b2a179f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.0201,
+      "ethAmount": 2.02,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-29T20:57:35.000Z"
+    },
+    {
+      "hash": "0x81b68b14b9406602417466877b4be48d496be843d7b61b77f71803281630d625",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 6.3779,
+      "btcAmount": 0.000076,
+      "type": "LILY_TO_LILYBTC",
+      "action": "sell",
+      "time": "2026-01-29T20:12:59.000Z"
+    },
+    {
+      "hash": "0x1614c13ff88f6f81510047fcf57979eca485b5329cb5a3e7bc22dfc1a9ed1a6f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3,
+      "btcAmount": 0.000036,
+      "type": "LILY_TO_LILYBTC",
+      "action": "sell",
+      "time": "2026-01-29T20:11:35.000Z"
+    },
+    {
+      "hash": "0x9ae62f3395ad26fd294d3d4e4990128980da70ffc360f455c70c71e90b4e849c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.18895,
+      "btcAmount": 0.000038,
+      "type": "LILY_TO_LILYBTC",
+      "action": "sell",
+      "time": "2026-01-29T20:07:23.000Z"
+    },
+    {
+      "hash": "0xe60fb6205bb147ccbf4afb266670f836d1febe438d06cfb5d96e62e1675d6181",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.999,
+      "ethAmount": 0.001776,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-29T16:52:59.000Z"
+    },
+    {
+      "hash": "0xa0e5c506978cea550a622a46843a40d60c5d8d98d920e78d1d08decbcc1fbe55",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.7506,
+      "ltcAmount": 0.056879,
+      "type": "LILY_TO_LILYLTC",
+      "action": "sell",
+      "time": "2026-01-29T16:49:11.000Z"
+    },
+    {
+      "hash": "0xa270753c2b4d3349fa3e2e7ddeed35d757e3312979324e91308c756f23e50064",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.913,
+      "ethAmount": 0.000965,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-28T23:20:47.000Z"
+    },
+    {
+      "hash": "0x5b4b4dc1f12c8d170ee1affc5920dc03244d88183b11f5f1f1ee3ae10a19e02e",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 10.5821,
+      "ethAmount": 0.00351,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-28T23:16:47.000Z"
+    },
+    {
+      "hash": "0xfc8d9c6b9e715a37a540410f607ec7a87302e392bd158be7a8ed53d8f70d082d",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.826725,
+      "ltcAmount": 0.011868,
+      "type": "LILY_TO_LILYLTC",
+      "action": "sell",
+      "time": "2026-01-28T22:55:11.000Z"
+    },
+    {
+      "hash": "0xe5a07d43247542bae6c658ac23358de8dfb75dec5e560430d7c61bccce81f2dd",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.3069,
+      "ethAmount": 0.001098,
+      "type": "LILY_TO_LILYETH",
+      "action": "sell",
+      "time": "2026-01-28T22:32:47.000Z"
+    },
+    {
+      "hash": "0xec26282d782ad29580581ebc5fb68121095a6afc965f79af5dce9f7fb3597e09",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.2927,
+      "ethAmount": 0.001755,
+      "type": "LILY_TO_LILYETH",
+      "action": "sell",
+      "time": "2026-01-28T21:59:35.000Z"
+    },
+    {
+      "hash": "0xa34f6bc81c58653cc897b75e6d8b26912e2d34c82582c6114eca6eca42a613d3",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.438375,
+      "ethAmount": 0.000145,
+      "type": "LILY_TO_LILYETH",
+      "action": "sell",
+      "time": "2026-01-28T21:45:47.000Z"
+    },
+    {
+      "hash": "0x737a177321abdd9766dc16b859ce26bcf61e9877e548ed4cc5141574fb1ae3f7",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1,
+      "usdcAmount": 1,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-28T00:32:11.000Z"
+    },
+    {
+      "hash": "0x07d3830b5be00f338276b85f9be412be9b949bc8beb97f2447ec78d3b2543ff5",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.5245,
+      "ethAmount": 0.000836,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-28T00:20:35.000Z"
+    },
+    {
+      "hash": "0x302792bc121e74569f4f801cb353de2cd805411bdf9b3b323d59895498ff5c79",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3,
+      "usdcAmount": 3,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-28T00:05:35.000Z"
+    },
+    {
+      "hash": "0xefa9243266d4fd511997e513945574d388479124eac4cbfd7d957b9594c8803c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1,
+      "usdcAmount": 0,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-28T00:03:35.000Z"
+    },
+    {
+      "hash": "0xf6e6919bde025255c873a8e130e4120babeaeb635a6908b6761f084e565c8674",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.9046,
+      "ethAmount": 0.000959,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-27T23:47:35.000Z"
+    },
+    {
+      "hash": "0x7d8aa781482eca1689d15221c3ee93ce95d2e8cd85c8106289e31bff500037a6",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3,
+      "usdcAmount": 3,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T18:24:59.000Z"
+    },
+    {
+      "hash": "0x1665bbd1c428306410f68129abb744455f7dcb5aa9363cbe64a89a8f5d062807",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.7,
+      "ethAmount": 0.001598,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-27T18:20:47.000Z"
+    },
+    {
+      "hash": "0xfefbe3b23c3185f61ca13a11351f04b4ff6a9d92052c765b51cd50588a1f998c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.5901,
+      "usdcAmount": 3.59,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T18:18:35.000Z"
+    },
+    {
+      "hash": "0x490ad8da58845e8416329ac543f6d61500981ee6157606a6ad91bf5ba1689089",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2,
+      "usdcAmount": 2,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T18:17:35.000Z"
+    },
+    {
+      "hash": "0xa09db7171075e350a1f0250c0dc7f4d6f4a93233f20ec2559b94b66f60707faf",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 7,
+      "usdcAmount": 7,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T18:13:47.000Z"
+    },
+    {
+      "hash": "0xfc0e2b8a2a605d38d41c0059984d07ea07eb7bc4b5229b03039a596095533693",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1,
+      "usdcAmount": 1,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T16:17:35.000Z"
+    },
+    {
+      "hash": "0xcff5d24210e5c363c9acaab92af861f947732d6b48f644b32110b3e34d0aeb28",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.7788,
+      "ethAmount": 0.001271,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-27T16:16:35.000Z"
+    },
+    {
+      "hash": "0xf57a0b632b71222c1b532611a6fe935202952b80094f83a5920d94895231b704",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2,
+      "usdcAmount": 2,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T16:07:23.000Z"
+    },
+    {
+      "hash": "0x6c95d8555e68072e63f2501cb133bee2769727991c9e07bf16214f1bf6c7c94a",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1,
+      "usdcAmount": 1,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T15:50:47.000Z"
+    },
+    {
+      "hash": "0x17c496ffa91f42239a1513573580d710bac9a891f424710473711cce5ceb8ba1",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2,
+      "usdcAmount": 2,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T15:47:35.000Z"
+    },
+    {
+      "hash": "0x708af3739f7e2ee31649747799868303edfa1bf4eee1768de0ed33aea6ab4c03",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1,
+      "usdcAmount": 1,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T02:00:23.000Z"
+    },
+    {
+      "hash": "0x5a8323fea74ff43978287bdc34bd7d65fb4681bd954da8098df47f5517252f8b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.3258,
+      "usdcAmount": 5.33,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T01:53:59.000Z"
+    },
+    {
+      "hash": "0x349a4a6afebbaaf1176638985b6ae59d745ffbe0607ae0145d307d8726d07bfd",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.3258,
+      "usdcAmount": 5.33,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T01:46:59.000Z"
+    },
+    {
+      "hash": "0x91d7c8ff74fbaad7595bb59d49b3177c1fcb307796bd67cdd35063e1f477b56f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 10.1816,
+      "usdcAmount": 10.18,
+      "ethAmount": 0,
+      "type": "LILY_TO_USDC",
+      "action": "sell",
+      "time": "2026-01-27T01:46:11.000Z"
+    },
+    {
+      "hash": "0x8ecf8d2a48bf74edc8ff7f9e5568cd1501432217328e3ca34ce1a8799edf7089",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 8.064147,
+      "ethAmount": 0.002749,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T21:45:59.000Z"
+    },
+    {
+      "hash": "0xa10a88455f04d71e0dc8af1b96794193d0b64d889ff38784423b50b568589e54",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 10.617583,
+      "ethAmount": 0.003649,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T21:35:23.000Z"
+    },
+    {
+      "hash": "0xcd2edb1e0cccce38067a04bb9168353d897395ef6b0ea5dd1f9eea349d30488f",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 9.007892,
+      "ethAmount": 0.003105,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T20:59:47.000Z"
+    },
+    {
+      "hash": "0x513cca9e69f60fb6c1083a7635a458d58e1c3716a05a85a07b1282b17ceb4ca2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.53556,
+      "ethAmount": 0.001909,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T20:58:23.000Z"
+    },
+    {
+      "hash": "0xbf74740535c8d9863538c4e2d3f65c252d1a4ea5701744b45f105ea2c76bd090",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 8.1,
+      "ethAmount": 0.002785,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T20:51:23.000Z"
+    },
+    {
+      "hash": "0x6fbe13fa49d9ff77dd36671cb07bd56f11a77cb80e9f2459791e2c16e08bf7ec",
+      "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "lilyAmount": 3.002872,
+      "ethAmount": 0.001027,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T20:08:35.000Z"
+    },
+    {
+      "hash": "0x51fb8a23c38ae8e93bf72c4f4505815882ae88d078e219c5598ff2588a5ff42c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 7.8,
+      "ethAmount": 0.002669,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T19:58:59.000Z"
+    },
+    {
+      "hash": "0x68a1253b57f1cca474142ce27a4291fa4fe81df2f796de585e1891bff9d9663c",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.931294,
+      "ethAmount": 0.001688,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T18:52:47.000Z"
+    },
+    {
+      "hash": "0x8440251c3df0facadbec523a0d52624c04c62c13de815ae32621b51a52a6e4f4",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.321641,
+      "ethAmount": 0.001827,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T18:47:47.000Z"
+    },
+    {
+      "hash": "0xde14f7ae31391c2f8a21256a0dfb2adb74dcc7a6a4e46c80b62cc1c6c49f33e2",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 8,
+      "ethAmount": 0.002742,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-26T18:19:23.000Z"
+    },
+    {
+      "hash": "0xc4a858866f3cbab124e7be9c2d7601d5c9b873d0da669f1db6537cf787062b35",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1.595181,
+      "ethAmount": 0.00054,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T19:49:11.000Z"
+    },
+    {
+      "hash": "0xef2b4955518d641f52ff34c48c8da5b55b958eaff7e5481b05913332c4b1ecd9",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.190362,
+      "ethAmount": 0.001078,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T17:54:47.000Z"
+    },
+    {
+      "hash": "0xf05fdc9be941c24fee0944a3665dc5f60d406e9e36fb94c618dac5230973855a",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.53694562,
+      "ethAmount": 0.000181,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T17:48:47.000Z"
+    },
+    {
+      "hash": "0x4fd3e97c26fad7a7620c769dc69c228afb9b9e2cf90f6637fac844b871bab4f1",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.8,
+      "ethAmount": 0.00027,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T17:42:23.000Z"
+    },
+    {
+      "hash": "0xf9c955598877aa5aaef77acf4a0f8da8ffc23d139406bd682beded732dd75f54",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1.873891,
+      "ethAmount": 0.000633,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T17:34:23.000Z"
+    },
+    {
+      "hash": "0x1c2cf6c76ba629176adce4512c9c7089681fafce94c0d7274b69cbca9e112a88",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.227149,
+      "ethAmount": 0.000752,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-24T17:24:35.000Z"
+    },
+    {
+      "hash": "0x9dea0092a0582bc506517abc460c31c52161cc5181895ddad281a51517cb2525",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.720382,
+      "ethAmount": 0.001936,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T19:33:23.000Z"
+    },
+    {
+      "hash": "0x166684514a088212e8953284f0edabde3955e07804ba7ac980548805a9025e03",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.353855,
+      "ethAmount": 0.000789,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T19:10:11.000Z"
+    },
+    {
+      "hash": "0xba6ca63c67d67d40e7b0c1d5e7531024018babe9edef463ebffc8640efa694ff",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 1.176928,
+      "ethAmount": 0.000395,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T19:08:23.000Z"
+    },
+    {
+      "hash": "0x33289fc03a34f3a668cefdde5bef44fc4778d6184bf9e2b12727ba49a63f1dc9",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.93181213,
+      "ethAmount": 0.000311,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T18:11:23.000Z"
+    },
+    {
+      "hash": "0x3b89f10cd0ba49c11a6e2c65d7af97be0e73d71eedc89de0a4691ddac392ba23",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.93181212,
+      "ethAmount": 0.000311,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T18:09:35.000Z"
+    },
+    {
+      "hash": "0x1c1158b82c1dcde1a793be1c69b3e215e7e1c940f44e143f6ebd5e85a83ddfd0",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.268231,
+      "ethAmount": 0.000759,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T18:07:11.000Z"
+    },
+    {
+      "hash": "0x013c4d4a1c97e3a0dfccadfc5bad46a6fcd6a0e3eadcabbaa55e020c8603505e",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.545254,
+      "ethAmount": 0.001525,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T18:02:59.000Z"
+    },
+    {
+      "hash": "0x324384368dfecf672b196b23e0562a74e54d17b1e0d7c2541368a05ab47601c1",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.545254,
+      "ethAmount": 0.001522,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T17:57:47.000Z"
+    },
+    {
+      "hash": "0x0547a74673e0af5b8d29b9e3f71282f48956830c73aae22d83267a1229d94791",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.797174,
+      "ethAmount": 0.001264,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T17:37:23.000Z"
+    },
+    {
+      "hash": "0x9bf050a6d5869ca2dc4a40a04ae2429d6f08fa14b1ef4e9ed3e9741ce5de3258",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.797174,
+      "ethAmount": 0.001267,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T17:31:59.000Z"
+    },
+    {
+      "hash": "0x55623531c6742f2ebb0f52b16a4c1068745e2c61e276d1eb883203e966ea95bb",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.9419295,
+      "ethAmount": 0.000318,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T17:10:35.000Z"
+    },
+    {
+      "hash": "0x93450502c392167453071bd0aa4520065f5a8c8b98dfbfd48613316d8e390b32",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.059184,
+      "ethAmount": 0.000695,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T02:13:47.000Z"
+    },
+    {
+      "hash": "0x67c6afc4f51b3bbea1b029c168544cfc740371004c30898a9d700493bbfadf37",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.059184,
+      "ethAmount": 0.000695,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T02:12:11.000Z"
+    },
+    {
+      "hash": "0x9842cba364ee34fa8fd284b3be3a866cb58a72d00586419a6aafd0e7f0db0fae",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 7.293687,
+      "ethAmount": 0.002465,
+      "type": "LILY_TO_LILYETH",
+      "action": "sell",
+      "time": "2026-01-23T01:37:35.000Z"
+    },
+    {
+      "hash": "0xa7f686ad9a4ffa654c6bcc0d1229979483ff1778a1d822a5208de2b7ddfdaeae",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 3.946691,
+      "ethAmount": 0.001339,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T00:41:23.000Z"
+    },
+    {
+      "hash": "0x23b435c8fcfb98e4779fc8291f3a4a40af3106a81d0d8ab56c977eee4163a556",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 5.568711,
+      "ethAmount": 0.001888,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-23T00:33:35.000Z"
+    },
+    {
+      "hash": "0xf2615c50313bf26c19c0dff19e284435a2718e0125b8287f961caab54728d813",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.42369,
+      "ethAmount": 0.000822,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T23:58:35.000Z"
+    },
+    {
+      "hash": "0xe0b3b5724b2c7291f8de3b711a250818235d6f5c9be9a53b220b5c9d9cb298b5",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 2.423691,
+      "ethAmount": 0.000822,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T23:56:11.000Z"
+    },
+    {
+      "hash": "0xebc60f19c42b20086bd913a11e9600e111642c0b315b6ba05e43995257870655",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 4.02125,
+      "ethAmount": 0.001365,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T23:17:23.000Z"
+    },
+    {
+      "hash": "0x40aaf1ef5a2eb683ec63effe3ea1f04da33c9424a959beb39f841d230f193e66",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 6.326618,
+      "ethAmount": 0.002148,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T22:09:47.000Z"
+    },
+    {
+      "hash": "0x90749840850158250e7e90bcd1bbeacf379173f45af7a4292f35ac266502de9a",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 6.676003,
+      "ethAmount": 0.001964,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T21:15:35.000Z"
+    },
+    {
+      "hash": "0xe6322cf73691dd1cdabc4869e24af5a5026730db3ac82cbcc6333ce8c2acb985",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.119375,
+      "ethAmount": 0.000035,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T02:04:11.000Z"
+    },
+    {
+      "hash": "0x9cee7ad4b808382408a0492d7826c1f48c82fc3dd3f93deacafb8d025aef3795",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.23875,
+      "ethAmount": 0.00007,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T02:00:23.000Z"
+    },
+    {
+      "hash": "0xaa260fe66d014932fede0f48ffd3b830a20781df001a375d3bf9cd3e569c3e73",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.4775,
+      "ethAmount": 0.00014,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T01:11:23.000Z"
+    },
+    {
+      "hash": "0xfc04ea329f4312ed551c18c0bee74596487c562cf81746f1b4f1ecb4c5ca0ac5",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 0.955,
+      "ethAmount": 0.000281,
+      "type": "LILY_TO_ETH",
+      "action": "sell",
+      "time": "2026-01-22T00:36:11.000Z"
+    }
+  ],
+  "usdcTransactions": [
+    {
+      "hash": "0x4ef2a166f09704cb22add73e30bb541940f0c99d17b4d30c9703c152ecc1ebe7",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1.128,
+      "usdcAmount": 1.128,
+      "lilyAmount": 1.128,
+      "time": "2026-01-29T22:42:23.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xe1bdb890d69c9b3c4e4ce90916ca0d2e096ddf5a1509ffb48c8b63b974156dfb",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 5.09,
+      "usdcAmount": 5.09,
+      "lilyAmount": 4.784599999999999,
+      "time": "2026-01-29T22:36:11.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x73dbfcf9a71c0c7205b944795f644012843375ba15266b41a59003b469fcfd22",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 3.39,
+      "usdcAmount": 3.39,
+      "lilyAmount": 3.1866,
+      "time": "2026-01-29T22:33:11.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xbdc41e7a09b1d49e9fa70aa6b1c2534343b979ea401758d3ef8318dc9485d9ae",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 13.57,
+      "usdcAmount": 13.57,
+      "lilyAmount": 12.755799999999999,
+      "time": "2026-01-29T16:56:35.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xb8cc65abfcf0eef26f0636dc80169bda28ee8b1e8c5cc9199ecc5ddbd2eabe99",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 5.32,
+      "usdcAmount": 5.32,
+      "lilyAmount": 5.0008,
+      "time": "2026-01-29T16:48:23.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xb57e638b7c752fe1f3d1ed0040c9f9f73a1f375d60808fbc23b3faadcf682c55",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 21.81,
+      "usdcAmount": 21.81,
+      "lilyAmount": 21.81,
+      "time": "2026-01-29T16:47:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x5cdab32e2f10d1b17f3015e47773c26b08c207bcb153f8eeb4884ac70597b820",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 10.64,
+      "usdcAmount": 10.64,
+      "lilyAmount": 10.0016,
+      "time": "2026-01-28T21:56:59.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xb92aa92d835dfaf5e6c116a59563ea128bd9000217c91ec10995856778595d83",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 0.94,
+      "usdcAmount": 0.94,
+      "lilyAmount": 0.94,
+      "time": "2026-01-28T00:32:35.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x0bf23d04de025a6ab40dd38f37b1c74dcc37c2c82053a8d4665c5efd96630bf0",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2.82,
+      "usdcAmount": 2.82,
+      "lilyAmount": 2.82,
+      "time": "2026-01-28T00:05:59.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xec336dfb8ed87c33d77c34cdb23d7719250b7ef906f605f668572b2bb78cb38e",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 0,
+      "usdcAmount": 0,
+      "lilyAmount": 0,
+      "time": "2026-01-28T00:04:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x320b9b68a9f7fbc28aff407251c16f045e1d8a685a8e9b36b991edd6340f1ed9",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-28T00:01:47.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x899feddea34d4675a00d68f52ff042a778317d92959b5124f72d4e63640d92a6",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 6.18,
+      "usdcAmount": 6.18,
+      "lilyAmount": 5.8092,
+      "time": "2026-01-27T23:46:11.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x7f51d3f844de7b0262456a477870c3a11e7117ec93636e975a1be4418af8ff58",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2.82,
+      "usdcAmount": 2.82,
+      "lilyAmount": 2.82,
+      "time": "2026-01-27T18:25:23.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xf1aaee1d966312c19a1d3ce5a7d7278d32d5185499e3d2571e8a8cc677e65f9c",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 10,
+      "usdcAmount": 10,
+      "lilyAmount": 9.399999999999999,
+      "time": "2026-01-27T18:19:35.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xe7fa6b3794339a17f78d104ac950f15d2514c847d241bb5e1813077116c58865",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1.88,
+      "usdcAmount": 1.88,
+      "lilyAmount": 1.88,
+      "time": "2026-01-27T18:18:23.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x754518196b55b9ecca303462a0980fb37bd6331e0b0da8f3390025a8e5a0e160",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1.88,
+      "usdcAmount": 1.88,
+      "lilyAmount": 1.88,
+      "time": "2026-01-27T18:18:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xfafcf89962ad87697ce5f0e76d8374aca7d828cc946f5757cc3194761f436510",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 7,
+      "usdcAmount": 7,
+      "lilyAmount": 7,
+      "time": "2026-01-27T18:14:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xca01c38486e2079bc1651739c0b765ccea45f67ebd01bd30d3c8a32e361cad04",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 5,
+      "usdcAmount": 5,
+      "lilyAmount": 4.699999999999999,
+      "time": "2026-01-27T16:23:35.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x17023eaa92998253dc6d49d69114aa50aa470fba9c19bf1427750b819fb25081",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 1,
+      "time": "2026-01-27T16:18:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xff71c4c0f886ed13e031214327863e0e40dc91b94669e8c2820ee78e8e711afb",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 1,
+      "time": "2026-01-27T16:17:59.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x24a235e29f1bd696a4a2fc3996177280c8019116641e08c2c6757fb9b1474566",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 8.04,
+      "usdcAmount": 8.04,
+      "lilyAmount": 7.557599999999999,
+      "time": "2026-01-27T16:15:35.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xd070b9af78ba3bc283aa16c1de1a87341b6c6ff0977a3ee2ed51cfdbd401ee98",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 5.33,
+      "usdcAmount": 5.33,
+      "lilyAmount": 5.33,
+      "time": "2026-01-27T16:09:47.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xf3a471500c91919d8629fee92bddb910f3122eec8e4039c40287a105e9d49baf",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2,
+      "usdcAmount": 2,
+      "lilyAmount": 2,
+      "time": "2026-01-27T16:07:47.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xe01b5cd9537c61aa1f1a9d9180035582cc9b6d97fe1c28b69caf46a5cd2982c6",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 3,
+      "usdcAmount": 3,
+      "lilyAmount": 2.82,
+      "time": "2026-01-27T16:06:23.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x5c9635af34748d0eb19f4e6b4425dbb260222b0491aa6095deebe733ef9e0d7a",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-27T16:05:11.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x685090408557611c575ffda8e43b0cdf4b7a71a6a5fbd5812ddf72653c2bfe5b",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 1,
+      "time": "2026-01-27T15:51:35.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xdc5f2a33030d891a18fb5c005293fca9621f0f64d245dee22674ca4336bdd188",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2,
+      "usdcAmount": 2,
+      "lilyAmount": 2,
+      "time": "2026-01-27T15:48:35.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xae3ae419755faf1ae79fb11d92a2e309628d32ecb8758fd8cd33d76cccb78cf3",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2,
+      "usdcAmount": 2,
+      "lilyAmount": 2,
+      "time": "2026-01-27T15:48:23.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x6a5c9545b54f933c807d35fc5e12bb819f88a103e2556d911282ca57e19c0251",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 7.95,
+      "usdcAmount": 7.95,
+      "lilyAmount": 7.473,
+      "time": "2026-01-27T15:46:23.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x211890e9d5c61a054115dd0f1c97bd69f0b470067bb980066f3e722565e852e6",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 1,
+      "time": "2026-01-27T02:01:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x8a6f97847399bf963f02ae4237447c728ad77f84038edc000dbeac1fd1036a74",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 1,
+      "time": "2026-01-27T02:01:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0x865fa38735bb67b2cee6307fc8802ec34fe394ea35e14bf3456cde2b7ab9d6fa",
+      "from": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "to": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 5.33,
+      "usdcAmount": 5.33,
+      "lilyAmount": 5.33,
+      "time": "2026-01-27T01:53:11.000Z",
+      "type": "USDC",
+      "action": "sell",
+      "isIncoming": false
+    },
+    {
+      "hash": "0xa193f3f0c31dd43089d8bd7bd77ded5da5f7f91246c64db1c141577317b8de8f",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-27T01:45:23.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xf0a3dea5cbf367fb80043cb8d25f0e83b47b981bd3c5aaf0aa7b2fc9a4f84b16",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-27T01:27:35.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0xea8a5ee73dcdbc58f0c7f59cdc1ec465e577d43ba5fbc01bada19467581e9ea8",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-27T01:08:59.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x833d49fa65629a245b839fe6550abae4ab1ad40b14cfbf0161dc1861c1206ebd",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 1,
+      "usdcAmount": 1,
+      "lilyAmount": 0.94,
+      "time": "2026-01-27T00:57:47.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x5b3fca30785131a7c5b0ae2ffded98e0b41c20672b30a2af19732bc93cf95f83",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2,
+      "usdcAmount": 2,
+      "lilyAmount": 1.88,
+      "time": "2026-01-27T00:13:59.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    },
+    {
+      "hash": "0x5e46d52d5195f23fcad262eef05740bebe189a99d88aa916534f8f467edd5eb3",
+      "from": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "to": "0x5b184251f2269bab1216f3360d1ff89499cc9891",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "value": 2,
+      "usdcAmount": 2,
+      "lilyAmount": 1.88,
+      "time": "2026-01-27T00:06:11.000Z",
+      "type": "USDC",
+      "action": "buy",
+      "isIncoming": true
+    }
+  ],
+  "onrampTransactions": [
+    {
+      "hash": "pi_3SvLvaGYewyl0PJr3TXbZ7EU",
+      "type": "ONRAMP",
+      "wallet": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 50,
+      "usdAmount": 50,
+      "time": "2026-01-30T18:28:17.549Z",
+      "action": "buy"
+    },
+    {
+      "hash": "pi_3SvM4iGYewyl0PJr1cwpst99",
+      "type": "ONRAMP",
+      "wallet": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 50,
+      "usdAmount": 50,
+      "time": "2026-01-30T18:28:17.558Z",
+      "action": "buy"
+    },
+    {
+      "hash": "pi_3SvMZhGYewyl0PJr0Zl9bhDp",
+      "type": "ONRAMP",
+      "wallet": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 250,
+      "usdAmount": 250,
+      "time": "2026-01-30T18:38:23.792Z",
+      "action": "buy"
+    },
+    {
+      "hash": "pi_3SvRK0GYewyl0PJr3BvhNkSv",
+      "type": "ONRAMP",
+      "wallet": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      "lilyAmount": 50,
+      "usdAmount": 50,
+      "time": "2026-01-30T23:42:02.555Z",
+      "action": "buy"
+    },
+    {
+      "hash": "pi_3Svi4tGYewyl0PJr3P1ccbTV",
+      "type": "ONRAMP",
+      "wallet": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "lilyAmount": 50,
+      "usdAmount": 50,
+      "time": "2026-01-31T17:35:49.058Z",
+      "action": "buy"
+    },
+    {
+      "hash": "pi_3SvmURGYewyl0PJr3FbU9352",
+      "type": "ONRAMP",
+      "wallet": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      "lilyAmount": 50,
+      "usdAmount": 50,
+      "time": "2026-01-31T22:18:51.907Z",
+      "action": "buy"
+    }
+  ],
+  "userBalances": [
+    [
+      "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+      {
+        "eth_balance": "-- ETH",
+        "usdc_balance": "-- USDC",
+        "lily_balance": "288.5230 LILY",
+        "lily_eth_balance": "0.000000 ETH",
+        "lily_ltc_balance": "0.770770 LTC",
+        "lily_btc_balance": "0 BTC",
+        "lily_usdt_balance": "65.740000 USDT"
+      }
+    ],
+    [
+      "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+      {
+        "eth_balance": "-- ETH",
+        "usdc_balance": "-- USDC",
+        "lily_balance": "50.0000 LILY",
+        "lily_eth_balance": "0 ETH",
+        "lily_ltc_balance": "0 LTC",
+        "lily_btc_balance": "0.000636 BTC",
+        "lily_usdt_balance": "0 USDT"
+      }
+    ]
+  ],
+  "txBalances": [
+    [
+      "0xbbc0e99e315d7de8611928263e28e0c96a975e217d1ee4e89b7b4b7f0f373cd8",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.02,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.02
+      }
+    ],
+    [
+      "0x99063d22f98c64a3b8107a3dbf3362ff86f14bbd620f15bc0cf4e6da66eae2a7",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.9100000000000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.8900000000000001
+      }
+    ],
+    [
+      "0xfc04ea329f4312ed551c18c0bee74596487c562cf81746f1b4f1ecb4c5ca0ac5",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.9550000000000002,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.955
+      }
+    ],
+    [
+      "0xaa260fe66d014932fede0f48ffd3b830a20781df001a375d3bf9cd3e569c3e73",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.4775000000000002,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.4775
+      }
+    ],
+    [
+      "0x9cee7ad4b808382408a0492d7826c1f48c82fc3dd3f93deacafb8d025aef3795",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.2387500000000002,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.23875
+      }
+    ],
+    [
+      "0xe6322cf73691dd1cdabc4869e24af5a5026730db3ac82cbcc6333ce8c2acb985",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.11937500000000022,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.119375
+      }
+    ],
+    [
+      "0x7c689afb2a6539337f5d1d072c8418a82be0f86f72014ac2a67f6dd8ea2c5b78",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.676003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 6.556628
+      }
+    ],
+    [
+      "0x90749840850158250e7e90bcd1bbeacf379173f45af7a4292f35ac266502de9a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -6.676003
+      }
+    ],
+    [
+      "0xe1d5f3b42bbe74e2f2803767a5c715345ad8c0ddb4f0507d0f3e140e3c8d7db2",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.326618,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 6.326618
+      }
+    ],
+    [
+      "0x40aaf1ef5a2eb683ec63effe3ea1f04da33c9424a959beb39f841d230f193e66",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -6.326618
+      }
+    ],
+    [
+      "0xff0d4c6159b285eefef2125ef215e8b33ac3e5a74726cb637998dbac02bc035f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.02125,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 4.02125
+      }
+    ],
+    [
+      "0xebc60f19c42b20086bd913a11e9600e111642c0b315b6ba05e43995257870655",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -4.02125
+      }
+    ],
+    [
+      "0xaf255a9a434ab8af2b0ab8561af2e7d0b26fbcdc579ad6ecba8979763f5ea98b",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.012307,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.012307
+      }
+    ],
+    [
+      "0x79e59270a472a7460cf18646c2f1de1eeb12246a0656af6085a57e65771eea22",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.019167,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.00686
+      }
+    ],
+    [
+      "0xb7ae0993202dd7c1d58a64f78f3f0a3a68ce0981aa60f9bd7c29fae59c442096",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.854241,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.835074
+      }
+    ],
+    [
+      "0xbc0a31f2cdd20a267aa643c7bbf18d8d342bf06a8cd1559391ff33607614c3db",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.6101,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.7558590000000001
+      }
+    ],
+    [
+      "0xe0b3b5724b2c7291f8de3b711a250818235d6f5c9be9a53b220b5c9d9cb298b5",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.186409,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.423691
+      }
+    ],
+    [
+      "0xf2615c50313bf26c19c0dff19e284435a2718e0125b8287f961caab54728d813",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.7627190000000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.42369
+      }
+    ],
+    [
+      "0xc47172a2056ff6dcd095a046340d2c7fba338e8c27e29219916f4d03a5c6315d",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.331430000000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.568711
+      }
+    ],
+    [
+      "0x23b435c8fcfb98e4779fc8291f3a4a40af3106a81d0d8ab56c977eee4163a556",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.7627190000000006,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.568711
+      }
+    ],
+    [
+      "0xc5d464c70348be0bc4286074f450b3520c57771d610bb3892be7c33c260ea1c0",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.70941,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.9466909999999995
+      }
+    ],
+    [
+      "0xa7f686ad9a4ffa654c6bcc0d1229979483ff1778a1d822a5208de2b7ddfdaeae",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.7627190000000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.946691
+      }
+    ],
+    [
+      "0xedcc1edbb266b21a4ab14aa507a72102c325df79f794cf641d250d57a7d65987",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.627209,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.86449
+      }
+    ],
+    [
+      "0xffeea5b72c14822283d40df6318d3c511a02877616b515599196166a9ad42806",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.491967,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.8647579999999997
+      }
+    ],
+    [
+      "0x20d121f4169cc583734bf6dec98ae9890990ecc6661a921def2e63fec26a3030",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.191475,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.6995079999999998
+      }
+    ],
+    [
+      "0xfccec6a64b1f8e3e1a38be348638c075b6a32e5b01a23c6e0b18298f32095ceb",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.293686999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.1022119999999997
+      }
+    ],
+    [
+      "0x9842cba364ee34fa8fd284b3be3a866cb58a72d00586419a6aafd0e7f0db0fae",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0.002465,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -7.293686999999999
+      }
+    ],
+    [
+      "0x9c156017beef03360903b4ef5524cec8f2bab70969a71510dcf998d320827c80",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.003584,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.003584
+      }
+    ],
+    [
+      "0x525849f2735a49d985bcbbf47308c2906197cbb35e376fd16971bf6d3602b921",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.745578,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.741994
+      }
+    ],
+    [
+      "0x67c6afc4f51b3bbea1b029c168544cfc740371004c30898a9d700493bbfadf37",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.686394,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.059184
+      }
+    ],
+    [
+      "0x93450502c392167453071bd0aa4520065f5a8c8b98dfbfd48613316d8e390b32",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.686394
+      }
+    ],
+    [
+      "0x43ea55f0b4b645f998fdce2ed03d9868c051e9dada7efc02e058276029ffe181",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.628696,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.628696
+      }
+    ],
+    [
+      "0x55623531c6742f2ebb0f52b16a4c1068745e2c61e276d1eb883203e966ea95bb",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.6867665,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.9419295000000001
+      }
+    ],
+    [
+      "0x8cdacf02793224d6032c722380c3b8dfeb9f48692b59c03ab55d387e9a06c155",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.1699645,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.483198
+      }
+    ],
+    [
+      "0x9bf050a6d5869ca2dc4a40a04ae2429d6f08fa14b1ef4e9ed3e9741ce5de3258",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.3727904999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.797174
+      }
+    ],
+    [
+      "0x0547a74673e0af5b8d29b9e3f71282f48956830c73aae22d83267a1229d94791",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.3727904999999998
+      }
+    ],
+    [
+      "0x45203aae2af33027f56dfbf19b0404aed777cfe9479e2b2021c02e0fb66f77a1",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.15,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.15
+      }
+    ],
+    [
+      "0x9cf9a56431acee6af0c197d70391c868b339f10aa540b3e6cb86aa9ab3a7b5ae",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 8.342428,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.192428
+      }
+    ],
+    [
+      "0x324384368dfecf672b196b23e0562a74e54d17b1e0d7c2541368a05ab47601c1",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.797174,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -4.545254
+      }
+    ],
+    [
+      "0x013c4d4a1c97e3a0dfccadfc5bad46a6fcd6a0e3eadcabbaa55e020c8603505e",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.797174
+      }
+    ],
+    [
+      "0xa41eeab9ca06bc08d14ceaf512488241b3d354ad5217a6445c9501320795d4ef",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.536462,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 4.536462
+      }
+    ],
+    [
+      "0x1c1158b82c1dcde1a793be1c69b3e215e7e1c940f44e143f6ebd5e85a83ddfd0",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.268231,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.268231
+      }
+    ],
+    [
+      "0x234793542a301a2a8d99515d08bacdeda8bd9ff1bf746a2aff189c09e6173f9f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.995479,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.7272479999999995
+      }
+    ],
+    [
+      "0x3b89f10cd0ba49c11a6e2c65d7af97be0e73d71eedc89de0a4691ddac392ba23",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.0636668799999995,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.93181212
+      }
+    ],
+    [
+      "0x33289fc03a34f3a668cefdde5bef44fc4778d6184bf9e2b12727ba49a63f1dc9",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.13185475,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.93181213
+      }
+    ],
+    [
+      "0xf9af3532049d5d241e4729ccaa6254ea5b655daaaeb6665f4f3a39710509735e",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.89910875,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.7672540000000003
+      }
+    ],
+    [
+      "0xba6ca63c67d67d40e7b0c1d5e7531024018babe9edef463ebffc8640efa694ff",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.72218075,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.1769280000000002
+      }
+    ],
+    [
+      "0x166684514a088212e8953284f0edabde3955e07804ba7ac980548805a9025e03",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.36832575,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.353855
+      }
+    ],
+    [
+      "0x45510da3854057c7a9db866155770eeb111ac6d2bdd3c35664ba32f42db61b39",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.91178075,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 4.543455
+      }
+    ],
+    [
+      "0x9dea0092a0582bc506517abc460c31c52161cc5181895ddad281a51517cb2525",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.1913987500000003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.720382
+      }
+    ],
+    [
+      "0xea3e8b051661a285668a152059e785f7fc45fa38edaedb30aed19ba1a28928ea",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.77240275,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 4.581004
+      }
+    ],
+    [
+      "0x1c2cf6c76ba629176adce4512c9c7089681fafce94c0d7274b69cbca9e112a88",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.5452537500000005,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.227149
+      }
+    ],
+    [
+      "0x12c96821dc7e66c07e1d1b7260616e80b88b5e3787f9e2e1d98df459d6333651",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 8.293035750000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.747782000000001
+      }
+    ],
+    [
+      "0xf9c955598877aa5aaef77acf4a0f8da8ffc23d139406bd682beded732dd75f54",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.419144750000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.8738910000000004
+      }
+    ],
+    [
+      "0x4fd3e97c26fad7a7620c769dc69c228afb9b9e2cf90f6637fac844b871bab4f1",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.619144750000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.7999999999999998
+      }
+    ],
+    [
+      "0xf05fdc9be941c24fee0944a3665dc5f60d406e9e36fb94c618dac5230973855a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.082199130000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.53694562
+      }
+    ],
+    [
+      "0xe292f66e320c7844d4c850121adc04d770d82d75e988c0ad8c3c56047cc8bb3f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 10.925977130000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.843778
+      }
+    ],
+    [
+      "0xef2b4955518d641f52ff34c48c8da5b55b958eaff7e5481b05913332c4b1ecd9",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.735615130000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.1903620000000004
+      }
+    ],
+    [
+      "0x767a59331c1f10db4ea7401741eec5646af2f6ebf48e2b1421e90bad828dd33a",
+      {
+        "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+        "balance": 3.002872,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.002872
+      }
+    ],
+    [
+      "0xc4a858866f3cbab124e7be9c2d7601d5c9b873d0da669f1db6537cf787062b35",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.140434130000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.5951810000000002
+      }
+    ],
+    [
+      "0x7031f0fd5de87c4d837f65d9cb32ad9133673b3d5535b4fce5eeba71f5cc19f6",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.84671413,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 6.70628
+      }
+    ],
+    [
+      "0xde14f7ae31391c2f8a21256a0dfb2adb74dcc7a6a4e46c80b62cc1c6c49f33e2",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.8467141300000005,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -8
+      }
+    ],
+    [
+      "0xade606983593d5b1fc5060f369eac99a2e31e621f388c48ad92af1bbe52c4a2c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 11.640775130000002,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 6.794061000000001
+      }
+    ],
+    [
+      "0x8440251c3df0facadbec523a0d52624c04c62c13de815ae32621b51a52a6e4f4",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.319134130000002,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.321641
+      }
+    ],
+    [
+      "0xe0c87a6a70ffe7cbc416ead625bf0c301816861df916e64351655fe1f8975b56",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 11.405897130000003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.086763000000001
+      }
+    ],
+    [
+      "0x68a1253b57f1cca474142ce27a4291fa4fe81df2f796de585e1891bff9d9663c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.474603130000003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -4.931294
+      }
+    ],
+    [
+      "0x903b31fd5c449520d882ebc0fc3cc9ced0da0d0f08e5a2dc949da9c9495c6ea7",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.413554130000003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.938951
+      }
+    ],
+    [
+      "0x51fb8a23c38ae8e93bf72c4f4505815882ae88d078e219c5598ff2588a5ff42c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.613554130000003,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -7.8
+      }
+    ],
+    [
+      "0x6fbe13fa49d9ff77dd36671cb07bd56f11a77cb80e9f2459791e2c16e08bf7ec",
+      {
+        "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.002872
+      }
+    ],
+    [
+      "0x71ddafc29aa68f7835c89f318661a39e59c4d5a550736207091f17f878eb322d",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.711534130000004,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 8.09798
+      }
+    ],
+    [
+      "0xbf74740535c8d9863538c4e2d3f65c252d1a4ea5701744b45f105ea2c76bd090",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.611534130000004,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -8.1
+      }
+    ],
+    [
+      "0xcd0c8085baec87ce80ddc4d81fdb8cd78cbb9fdc513f167a546402db87e6dcf3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 28.096597130000006,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 23.485063000000004
+      }
+    ],
+    [
+      "0x513cca9e69f60fb6c1083a7635a458d58e1c3716a05a85a07b1282b17ceb4ca2",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 22.561037130000006,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.53556
+      }
+    ],
+    [
+      "0xcd2edb1e0cccce38067a04bb9168353d897395ef6b0ea5dd1f9eea349d30488f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 13.553145130000006,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -9.007892
+      }
+    ],
+    [
+      "0xb88d1441d950887fa1b621f30052608aecddf6f52feba56fbc3ac2607cd3eeaf",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 18.702031130000005,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.148885999999999
+      }
+    ],
+    [
+      "0xa10a88455f04d71e0dc8af1b96794193d0b64d889ff38784423b50b568589e54",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 8.084448130000006,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -10.617583
+      }
+    ],
+    [
+      "0x8cd5daefc55a654bb48317c0232a2fb0abc07967504077ca1528d7d799d62c8a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 20.673548130000007,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 12.589100000000002
+      }
+    ],
+    [
+      "0x8ecf8d2a48bf74edc8ff7f9e5568cd1501432217328e3ca34ce1a8799edf7089",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.609401130000007,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -8.064147
+      }
+    ],
+    [
+      "0x5e46d52d5195f23fcad262eef05740bebe189a99d88aa916534f8f467edd5eb3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 14.489401130000008,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.8800000000000008
+      }
+    ],
+    [
+      "0x5b3fca30785131a7c5b0ae2ffded98e0b41c20672b30a2af19732bc93cf95f83",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 16.369401130000007,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.879999999999999
+      }
+    ],
+    [
+      "0x833d49fa65629a245b839fe6550abae4ab1ad40b14cfbf0161dc1861c1206ebd",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 17.30940113000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.9400000000000013
+      }
+    ],
+    [
+      "0xea8a5ee73dcdbc58f0c7f59cdc1ec465e577d43ba5fbc01bada19467581e9ea8",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 18.24940113000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.9400000000000013
+      }
+    ],
+    [
+      "0xf0a3dea5cbf367fb80043cb8d25f0e83b47b981bd3c5aaf0aa7b2fc9a4f84b16",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 19.18940113000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.9400000000000013
+      }
+    ],
+    [
+      "0xf1ab9035ef2237f2035a555bccf8b85f500404ffba7e10b7ff0e75c81a12b7b3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 20.36316213000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.173760999999999
+      }
+    ],
+    [
+      "0xa193f3f0c31dd43089d8bd7bd77ded5da5f7f91246c64db1c141577317b8de8f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 21.30316213000001,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.9400000000000013
+      }
+    ],
+    [
+      "0x91d7c8ff74fbaad7595bb59d49b3177c1fcb307796bd67cdd35063e1f477b56f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 11.121562130000012,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -10.1816
+      }
+    ],
+    [
+      "0x349a4a6afebbaaf1176638985b6ae59d745ffbe0607ae0145d307d8726d07bfd",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.7957621300000115,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.3258
+      }
+    ],
+    [
+      "0x865fa38735bb67b2cee6307fc8802ec34fe394ea35e14bf3456cde2b7ab9d6fa",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.46576213000001143,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.33
+      }
+    ],
+    [
+      "0x5a8323fea74ff43978287bdc34bd7d65fb4681bd954da8098df47f5517252f8b",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.46576213000001143
+      }
+    ],
+    [
+      "0x708af3739f7e2ee31649747799868303edfa1bf4eee1768de0ed33aea6ab4c03",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x211890e9d5c61a054115dd0f1c97bd69f0b470067bb980066f3e722565e852e6",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x8a6f97847399bf963f02ae4237447c728ad77f84038edc000dbeac1fd1036a74",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x6a5c9545b54f933c807d35fc5e12bb819f88a103e2556d911282ca57e19c0251",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.473,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 7.473
+      }
+    ],
+    [
+      "0x17c496ffa91f42239a1513573580d710bac9a891f424710473711cce5ceb8ba1",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.473,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2
+      }
+    ],
+    [
+      "0xae3ae419755faf1ae79fb11d92a2e309628d32ecb8758fd8cd33d76cccb78cf3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.473,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2
+      }
+    ],
+    [
+      "0xdc5f2a33030d891a18fb5c005293fca9621f0f64d245dee22674ca4336bdd188",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.4729999999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2
+      }
+    ],
+    [
+      "0x6c95d8555e68072e63f2501cb133bee2769727991c9e07bf16214f1bf6c7c94a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.47299999999999986,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0x685090408557611c575ffda8e43b0cdf4b7a71a6a5fbd5812ddf72653c2bfe5b",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.47299999999999986
+      }
+    ],
+    [
+      "0x5c9635af34748d0eb19f4e6b4425dbb260222b0491aa6095deebe733ef9e0d7a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.94,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.94
+      }
+    ],
+    [
+      "0xe01b5cd9537c61aa1f1a9d9180035582cc9b6d97fe1c28b69caf46a5cd2982c6",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.76,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 2.82
+      }
+    ],
+    [
+      "0xf57a0b632b71222c1b532611a6fe935202952b80094f83a5920d94895231b704",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.7599999999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2
+      }
+    ],
+    [
+      "0xf3a471500c91919d8629fee92bddb910f3122eec8e4039c40287a105e9d49baf",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.7599999999999998
+      }
+    ],
+    [
+      "0xd070b9af78ba3bc283aa16c1de1a87341b6c6ff0977a3ee2ed51cfdbd401ee98",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x24a235e29f1bd696a4a2fc3996177280c8019116641e08c2c6757fb9b1474566",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 7.557599999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 7.557599999999999
+      }
+    ],
+    [
+      "0xcff5d24210e5c363c9acaab92af861f947732d6b48f644b32110b3e34d0aeb28",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.778799999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.7788
+      }
+    ],
+    [
+      "0xfc0e2b8a2a605d38d41c0059984d07ea07eb7bc4b5229b03039a596095533693",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.778799999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0xff71c4c0f886ed13e031214327863e0e40dc91b94669e8c2820ee78e8e711afb",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.778799999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0x17023eaa92998253dc6d49d69114aa50aa470fba9c19bf1427750b819fb25081",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.778799999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0xca01c38486e2079bc1651739c0b765ccea45f67ebd01bd30d3c8a32e361cad04",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.478799999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 4.699999999999999
+      }
+    ],
+    [
+      "0x20fdef25861a1d5f95cd9d9cc4f6f541135b7937b797e1350b211bff3790b8c9",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 10.590061999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.111262
+      }
+    ],
+    [
+      "0xa09db7171075e350a1f0250c0dc7f4d6f4a93233f20ec2559b94b66f60707faf",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.590061999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -7
+      }
+    ],
+    [
+      "0xfafcf89962ad87697ce5f0e76d8374aca7d828cc946f5757cc3194761f436510",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.590061999999998
+      }
+    ],
+    [
+      "0x490ad8da58845e8416329ac543f6d61500981ee6157606a6ad91bf5ba1689089",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x754518196b55b9ecca303462a0980fb37bd6331e0b0da8f3390025a8e5a0e160",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0xe7fa6b3794339a17f78d104ac950f15d2514c847d241bb5e1813077116c58865",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0xfefbe3b23c3185f61ca13a11351f04b4ff6a9d92052c765b51cd50588a1f998c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0xf1aaee1d966312c19a1d3ce5a7d7278d32d5185499e3d2571e8a8cc677e65f9c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 9.399999999999999,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 9.399999999999999
+      }
+    ],
+    [
+      "0x1665bbd1c428306410f68129abb744455f7dcb5aa9363cbe64a89a8f5d062807",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.699999999999998,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -4.7
+      }
+    ],
+    [
+      "0x7d8aa781482eca1689d15221c3ee93ce95d2e8cd85c8106289e31bff500037a6",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.6999999999999984,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3
+      }
+    ],
+    [
+      "0x7f51d3f844de7b0262456a477870c3a11e7117ec93636e975a1be4418af8ff58",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1.6999999999999984
+      }
+    ],
+    [
+      "0x899feddea34d4675a00d68f52ff042a778317d92959b5124f72d4e63640d92a6",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.8092,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.8092
+      }
+    ],
+    [
+      "0xf6e6919bde025255c873a8e130e4120babeaeb635a6908b6761f084e565c8674",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.9046,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.9046
+      }
+    ],
+    [
+      "0x320b9b68a9f7fbc28aff407251c16f045e1d8a685a8e9b36b991edd6340f1ed9",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.8446,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.94
+      }
+    ],
+    [
+      "0x3b611950c53bfa53663f4d830db382fe2b91ec7c9af0f5d94ab89ca28c4a7f93",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.844595,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.9999950000000002
+      }
+    ],
+    [
+      "0xefa9243266d4fd511997e513945574d388479124eac4cbfd7d957b9594c8803c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.844595,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0xec336dfb8ed87c33d77c34cdb23d7719250b7ef906f605f668572b2bb78cb38e",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.844595,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x302792bc121e74569f4f801cb353de2cd805411bdf9b3b323d59895498ff5c79",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.844595,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3
+      }
+    ],
+    [
+      "0x0bf23d04de025a6ab40dd38f37b1c74dcc37c2c82053a8d4665c5efd96630bf0",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.844595
+      }
+    ],
+    [
+      "0xcaee76e7375ef5b3bb2ebc98b4d3fcdd93099ef26d87406f5c375a148a7c2a24",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.049047,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.049047
+      }
+    ],
+    [
+      "0x07d3830b5be00f338276b85f9be412be9b949bc8beb97f2447ec78d3b2543ff5",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.5245469999999997,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.5245
+      }
+    ],
+    [
+      "0x737a177321abdd9766dc16b859ce26bcf61e9877e548ed4cc5141574fb1ae3f7",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.5245469999999997,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -1
+      }
+    ],
+    [
+      "0xb92aa92d835dfaf5e6c116a59563ea128bd9000217c91ec10995856778595d83",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.5845469999999997,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.94
+      }
+    ],
+    [
+      "0xa34f6bc81c58653cc897b75e6d8b26912e2d34c82582c6114eca6eca42a613d3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.1461719999999997,
+        "lilyEthBalance": 0.000145,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.438375
+      }
+    ],
+    [
+      "0x20faa0e9f5916312e31582c6619798820d0e621ee1da03c17c4a1a11a2995ecf",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.5837569999999996,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0.43758499999999995
+      }
+    ],
+    [
+      "0x5cdab32e2f10d1b17f3015e47773c26b08c207bcb153f8eeb4884ac70597b820",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 10.585357,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 10.0016
+      }
+    ],
+    [
+      "0xec26282d782ad29580581ebc5fb68121095a6afc965f79af5dce9f7fb3597e09",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.292657,
+        "lilyEthBalance": 0.001755,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -5.2927
+      }
+    ],
+    [
+      "0x399398d11aff3b80173717f81cef1556a438d33dd7e1d4e0280ed11e025f71ba",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.613812,
+        "lilyEthBalance": 0.0013162500000000001,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.321155
+      }
+    ],
+    [
+      "0xe5a07d43247542bae6c658ac23358de8dfb75dec5e560430d7c61bccce81f2dd",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.306912,
+        "lilyEthBalance": 0.00241425,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.3069
+      }
+    ],
+    [
+      "0xfc8d9c6b9e715a37a540410f607ec7a87302e392bd158be7a8ed53d8f70d082d",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.480187,
+        "lilyEthBalance": 0.00241425,
+        "lilyLtcBalance": 0.011868,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.8267250000000002
+      }
+    ],
+    [
+      "0xa8339b15ffc325c202cb46394a954c9a48e5a3bc271ffcf01735c615159ece46",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.480187,
+        "lilyEthBalance": 0.0012072500000000002,
+        "lilyLtcBalance": 0.06416,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0x7635e1befe53e0164abbd4311b4afc51a9330351a87c1fb64107f8677a848751",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.480187,
+        "lilyEthBalance": 0.00231825,
+        "lilyLtcBalance": 0.016039999999999992,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0xacc83e239bd668692ce2e853fe17775676b63938f5efbdf92412d70218e38458",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 9.466694,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.016039999999999992,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 6.9865070000000005
+      }
+    ],
+    [
+      "0xd727ec43db050e7bd196f2a49474ec82987afd01ff9f60fffe8ded8465a93421",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 10.582116000000001,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 1.1154220000000006
+      }
+    ],
+    [
+      "0x5b4b4dc1f12c8d170ee1affc5920dc03244d88183b11f5f1f1ee3ae10a19e02e",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.00001600000000046009,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -10.5821
+      }
+    ],
+    [
+      "0x92e3b564cadda0162cdad2cb21679b57c4e8dd99f16f0e4bdf98321f4cfbd17d",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.8840400000000006,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.884024
+      }
+    ],
+    [
+      "0xa270753c2b4d3349fa3e2e7ddeed35d757e3312979324e91308c756f23e50064",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.9710400000000008,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -2.913
+      }
+    ],
+    [
+      "0xb57e638b7c752fe1f3d1ed0040c9f9f73a1f375d60808fbc23b3faadcf682c55",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -0.9710400000000008
+      }
+    ],
+    [
+      "0xb8cc65abfcf0eef26f0636dc80169bda28ee8b1e8c5cc9199ecc5ddbd2eabe99",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 5.0008,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 5.0008
+      }
+    ],
+    [
+      "0xa0e5c506978cea550a622a46843a40d60c5d8d98d920e78d1d08decbcc1fbe55",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.2502,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.056879,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -3.7506
+      }
+    ],
+    [
+      "0x7f813ca672e0d8e72919e6d99307d24fce3c573f22230c15adae6abbb729ee4a",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.2502,
+        "lilyEthBalance": 0.0013322499999999999,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 0
+      }
+    ],
+    [
+      "0xf808c50dc019efe02a496a0291dc1ac08fa65eebc73039e96c722fde00f5231c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.9989740000000005,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 3.7487740000000005
+      }
+    ],
+    [
+      "0xe60fb6205bb147ccbf4afb266670f836d1febe438d06cfb5d96e62e1675d6181",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": -4.9989740000000005
+      }
+    ],
+    [
+      "0xbdc41e7a09b1d49e9fa70aa6b1c2534343b979ea401758d3ef8318dc9485d9ae",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.755799999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 12.755799999999999
+      }
+    ],
+    [
+      "0x9ae62f3395ad26fd294d3d4e4990128980da70ffc360f455c70c71e90b4e849c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 9.566849999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.000038,
+        "lilyUsdtBalance": 0,
+        "change": -3.18895
+      }
+    ],
+    [
+      "0x09d4f397b4c604a8744293736a9616accc592393f86069262881361318f5d17b",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 12.753411999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.300000000002454e-9,
+        "lilyUsdtBalance": 0,
+        "change": 3.1865620000000003
+      }
+    ],
+    [
+      "0x1614c13ff88f6f81510047fcf57979eca485b5329cb5a3e7bc22dfc1a9ed1a6f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 9.753411999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.0000360073,
+        "lilyUsdtBalance": 0,
+        "change": -3
+      }
+    ],
+    [
+      "0x81b68b14b9406602417466877b4be48d496be843d7b61b77f71803281630d625",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.3755119999999987,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.00011200730000000001,
+        "lilyUsdtBalance": 0,
+        "change": -6.3779
+      }
+    ],
+    [
+      "0xdb19a988cfe358f414edb2551fdfb4a1eb889a4731705f0e1606241eccd79cbe",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 8.080390999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.00005600730000000001,
+        "lilyUsdtBalance": 0,
+        "change": 4.704879
+      }
+    ],
+    [
+      "0x3e75bf90f6288bf2528a4e008a8a9eb22dc9198d94f7ccce097603c96b2a179f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.060290999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.00005600730000000001,
+        "lilyUsdtBalance": 0,
+        "change": -2.0200999999999993
+      }
+    ],
+    [
+      "0x07bf8ba5e30e0da3af3571ea1b365fe661f59476029e6840d7e205729e413e57",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.060290999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.00002800730000000001,
+        "lilyUsdtBalance": 2.36,
+        "change": 0
+      }
+    ],
+    [
+      "0x89de96e3268b8b23674e1d44e833512990816a46971e0bed5a25a74ce4fbe09c",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 6.060290999999999,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.017881,
+        "lilyBtcBalance": 0.00002800730000000001,
+        "lilyUsdtBalance": 1.18,
+        "change": 0
+      }
+    ],
+    [
+      "0x985fc70c30728218c0b61d38f038d7e5eb397a8f6bc99eef9584776d52e42c6f",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 8.420777,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.017881,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 1.18,
+        "change": 2.360486
+      }
+    ],
+    [
+      "0xcc163df1d7e6e0e38ac5d9555c7ca62bd837362cbe791f67acca3f815b3ee9d0",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 9.601458999999998,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 1.18,
+        "change": 1.1806819999999991
+      }
+    ],
+    [
+      "0x24ec9db213130eb2192325ffb50633895f7a8a686f5d619604a660567691a256",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 10.779440999999998,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 1.177982
+      }
+    ],
+    [
+      "0xa8a22644be7c11aab93c8364e423821b15dcd67f6ae24071c8e3809b9d85eefc",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.00004099999999773729,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": -10.7794
+      }
+    ],
+    [
+      "0x73dbfcf9a71c0c7205b944795f644012843375ba15266b41a59003b469fcfd22",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 3.1866409999999976,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 3.1866
+      }
+    ],
+    [
+      "0xcaf1df52723a56208500094f30a5c57ff7c5f11b761f39e5bf9ccb1fc8237ba8",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.00004099999999773729,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": -3.1866
+      }
+    ],
+    [
+      "0xe1bdb890d69c9b3c4e4ce90916ca0d2e096ddf5a1509ffb48c8b63b974156dfb",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 4.784640999999997,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 4.784599999999999
+      }
+    ],
+    [
+      "0x59f10439abacd02550392dfe41fc2dfc0d93ebaa04aa4add6383fbf9d3345ec2",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 2.392340999999997,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": -2.3923
+      }
+    ],
+    [
+      "0x6722a3bc38fb3e6eebe13edc4def57cf4a035a2adc02b40728833034a1dc9553",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 1.196190999999997,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": -1.19615
+      }
+    ],
+    [
+      "0x4ef2a166f09704cb22add73e30bb541940f0c99d17b4d30c9703c152ecc1ebe7",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 0.068190999999997,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": -1.128
+      }
+    ],
+    [
+      "pi_3SvLvaGYewyl0PJr3TXbZ7EU",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 50.068191,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 50
+      }
+    ],
+    [
+      "pi_3SvM4iGYewyl0PJr1cwpst99",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 100.068191,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 50
+      }
+    ],
+    [
+      "pi_3SvMZhGYewyl0PJr0Zl9bhDp",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 350.068191,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 0,
+        "change": 250
+      }
+    ],
+    [
+      "0xd3584952b55d93d672b5b2b960b01a5eb450546590b86ff8d58255837158ac8e",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 87.517041,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 7.3000000000092305e-9,
+        "lilyUsdtBalance": 262.96,
+        "change": -262.55115
+      }
+    ],
+    [
+      "0xc79dbbd920b2193cc6055c15dfe623c798445dd61e1217051321fe9090b74cc3",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 87.517041,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.0023930073,
+        "lilyUsdtBalance": 65.73999999999998,
+        "change": 0
+      }
+    ],
+    [
+      "0x058d0dac8f8ede274c2ef8bade5f2f4d8ca370e385a9f6706ba07e8d4d019489",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 87.517041,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.77077,
+        "lilyBtcBalance": 0.0017947573,
+        "lilyUsdtBalance": 65.73999999999998,
+        "change": 0
+      }
+    ],
+    [
+      "pi_3SvRK0GYewyl0PJr3BvhNkSv",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 137.517041,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.77077,
+        "lilyBtcBalance": 0.0017947573,
+        "lilyUsdtBalance": 65.73999999999998,
+        "change": 50
+      }
+    ],
+    [
+      "0x61801908fa98e90f6f0280b6e298f91e8591666c34c6df4fef49dab1555cddd9",
+      {
+        "user": "0x7a6b28d68278938ddd302f550d11458ab380b10b",
+        "balance": 288.523031,
+        "lilyEthBalance": 2.4999999999981634e-7,
+        "lilyLtcBalance": 0.77077,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 65.73999999999998,
+        "change": 151.00599
+      }
+    ],
+    [
+      "pi_3Svi4tGYewyl0PJr3P1ccbTV",
+      {
+        "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+        "balance": 50,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 50
+      }
+    ],
+    [
+      "pi_3SvmURGYewyl0PJr3FbU9352",
+      {
+        "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+        "balance": 100,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0,
+        "lilyUsdtBalance": 0,
+        "change": 50
+      }
+    ],
+    [
+      "0xe239b8353c263abc1c1178f8fb65e9dd2f5cdb9b10877b893588bdbb53293123",
+      {
+        "user": "0x997726be3b27e608f8261d5ab07960b0dbb77113",
+        "balance": 50,
+        "lilyEthBalance": 0,
+        "lilyLtcBalance": 0,
+        "lilyBtcBalance": 0.000636,
+        "lilyUsdtBalance": 0,
+        "change": -50
+      }
+    ]
+  ],
+  "savedAt": "2026-02-01T17:58:51.091Z"
+}
